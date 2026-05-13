@@ -1,0 +1,28 @@
+Translator,Method,Mean F1 (%),SD (%)
+Human,SVM: Stylistic + All KW,94.02,1.53
+Human,SVM: Stylistic + Filtered KW,94.67,1.72
+Human,SVM: Only All KW,95.32,1.58
+Human,SVM: Only Filtered KW,95.86,1.72
+Human,SVM: Only Stylistic,95.53,1.70
+Human,"KNN (k=3, all features)",95.61,1.10
+Human,Burrows' Delta (MFW=100),97.85,1.93
+Human,Burrows' Delta (MFW=200),97.85,1.93
+Human,Burrows' Delta (MFW=500),97.85,1.93
+LLM,SVM: Stylistic + All KW,90.64,2.44
+LLM,SVM: Stylistic + Filtered KW,89.92,3.40
+LLM,SVM: Only All KW,85.96,3.96
+LLM,SVM: Only Filtered KW,75.66,4.71
+LLM,SVM: Only Stylistic,90.87,1.99
+LLM,"KNN (k=3, all features)",92.35,2.30
+LLM,Burrows' Delta (MFW=100),83.19,3.41
+LLM,Burrows' Delta (MFW=200),83.19,3.41
+LLM,Burrows' Delta (MFW=500),83.19,3.41
+NMT,SVM: Stylistic + All KW,91.00,3.06
+NMT,SVM: Stylistic + Filtered KW,91.97,2.04
+NMT,SVM: Only All KW,87.85,4.18
+NMT,SVM: Only Filtered KW,78.53,3.53
+NMT,SVM: Only Stylistic,91.26,2.73
+NMT,"KNN (k=3, all features)",93.73,1.49
+NMT,Burrows' Delta (MFW=100),90.55,2.23
+NMT,Burrows' Delta (MFW=200),90.55,2.23
+NMT,Burrows' Delta (MFW=500),90.55,2.23

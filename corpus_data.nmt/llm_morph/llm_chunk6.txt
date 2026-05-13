@@ -1,0 +1,2518 @@
+<S> <S>+BSTag
+Burada	bura <prn> <locp> <loc> <3s>
+Burada	bura <prn> <locp> <loc> <3p>
+her	<unk>
+şey	şey <n> <3s>
+şey	şey <n> <3p>
+o	o <prn> <pers> <3s>
+o	o <prn> <pers> <3p>
+o	o <ij>
+o	o <det>
+kadar	<unk>
+tuhaf	tuhaf <adj> <Djn_0> <n>
+tuhaf	tuhaf <adj> <Djn_0> <n> <3s>
+tuhaf	tuhaf <adj> <Djn_0> <n> <3p>
+tuhaf	tuhaf <n>
+tuhaf	tuhaf <n> <3s>
+tuhaf	tuhaf <n> <3p>
+ki,	ki <cnjadv>
+muhtemelen	muhtemelen <adv> <Dan_0> <n>
+muhtemelen	muhtemelen <adv> <Dan_0> <n> <3s>
+muhtemelen	muhtemelen <adv> <Dan_0> <n> <3p>
+konuşabilir	konuş <v> <abil> <t_aor> <3p>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+düşünüyorum:	<unk>
+her	<unk>
+neyse,	ney <n> <cpl_sa> <3s>
+neyse,	ney <n> <cpl_sa> <3p>
+neyse,	ney <n> <3p> <cpl_sa>
+neyse,	ne <prn> <qst> <cpl_sa> <3s>
+neyse,	ne <prn> <qst> <cpl_sa> <3p>
+neyse,	ne <prn> <qst> <3p> <cpl_sa>
+denemekten	dene <v> <vn_mak> <abl> <3s>
+denemekten	dene <v> <vn_mak> <abl> <3p>
+denemekten	dene <v> <vinf> <abl>
+denemekten	dene <v> <cv_mak> <abl>
+zarar	zarar <n> <3s>
+zarar	zarar <n> <3p>
+gelmez.	gel <v> <neg> <t_aor> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Ey	<unk>
+Fare,	fare <n> <3s>
+Fare,	fare <n> <3p>
+bu	bu <prn> <dem> <3s>
+bu	bu <prn> <dem> <3p>
+bu	bu <det>
+havuzdan	havuz <n> <abl> <3s>
+havuzdan	havuz <n> <abl> <3p>
+çıkış	çıkış <n> <3s>
+çıkış	çıkış <n> <3p>
+çıkış	çıkış <v> <t_imp> <2s>
+çıkış	çıkış <v> <t_imp> <3p>
+çıkış	çık <v> <D_yIS> <n>
+çıkış	çık <v> <D_yIS> <n> <3s>
+çıkış	çık <v> <D_yIS> <n> <3p>
+çıkış	çık <v> <vn_yis>
+çıkış	çık <v> <vn_yis> <3s>
+çıkış	çık <v> <vn_yis> <3p>
+yolunu	yol <n> <p2s> <acc> <3s>
+yolunu	yol <n> <p2s> <acc> <3p>
+yolunu	yol <n> <p3s> <acc>
+yolunu	yol <n> <p3s> <acc> <3s>
+yolunu	yol <n> <p3s> <acc> <3p>
+biliyor	bila <v> <t_cont> <3p>
+biliyor	bila <v> <cv_iyor>
+biliyor	bil <v> <t_cont> <3s>
+biliyor	bil <v> <t_cont> <3p>
+biliyor	bil <v> <cv_iyor>
+musun?	<unk>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Burada	bura <prn> <locp> <loc> <3s>
+Burada	bura <prn> <locp> <loc> <3p>
+yüzmekten	yüz <v> <vn_mak> <abl> <3s>
+yüzmekten	yüz <v> <vn_mak> <abl> <3p>
+yüzmekten	yüz <v> <vinf> <abl>
+yüzmekten	yüz <v> <cv_mak> <abl>
+çok	çok <adj> <Djn_0> <n>
+çok	çok <adj> <Djn_0> <n> <3s>
+çok	çok <adj> <Djn_0> <n> <3p>
+çok	çok <adv>
+çok	çok <adv> <Dan_0> <n>
+çok	çok <adv> <Dan_0> <n> <3s>
+çok	çok <adv> <Dan_0> <n> <3p>
+çok	çok <det>
+yoruldum,	<unk>
+Ey	<unk>
+Fare!”	<unk>
+(Alice	ali <n> <D_CA> <adj> <Djn_0> <n>
+(Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+(Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+(Alice	ali <n> <D_CA> <adv>
+(Alice	ali <n> <D_CA> <adv> <Dan_0> <n>
+(Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+(Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+(Alice	ali <n> <D_CA> <n>
+(Alice	ali <n> <D_CA> <n> <3s>
+(Alice	ali <n> <D_CA> <n> <3p>
+bunun	bun <n> <p2s> <3s>
+bunun	bun <n> <p2s> <3p>
+bunun	bun <n> <gen>
+bunun	bun <n> <gen> <3s>
+bunun	bun <n> <gen> <3p>
+bunun	bu <prn> <dem> <p2s>
+bunun	bu <prn> <dem> <p2s> <3s>
+bunun	bu <prn> <dem> <p2s> <3p>
+bunun	bu <prn> <dem> <gen>
+bunun	bu <prn> <dem> <gen> <3s>
+bunun	bu <prn> <dem> <gen> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+fareyle	fare <n> <ins> <3s>
+fareyle	fare <n> <ins> <3p>
+konuşmanın	konuşma <adj> <Djn_0> <n> <p2s> <gen> <3s>
+konuşmanın	konuşma <adj> <Djn_0> <n> <p2s> <gen> <3p>
+konuşmanın	konuşma <adj> <Djn_0> <n> <gen>
+konuşmanın	konuşma <adj> <Djn_0> <n> <gen> <3s>
+konuşmanın	konuşma <adj> <Djn_0> <n> <gen> <3p>
+konuşmanın	konuş <v> <D_mA> <n> <p2s> <gen>
+konuşmanın	konuş <v> <D_mA> <n> <p2s> <gen> <3s>
+konuşmanın	konuş <v> <D_mA> <n> <p2s> <gen> <3p>
+konuşmanın	konuş <v> <D_mA> <n> <gen>
+konuşmanın	konuş <v> <D_mA> <n> <gen> <3s>
+konuşmanın	konuş <v> <D_mA> <n> <gen> <3p>
+konuşmanın	konuş <v> <vn_ma> <p2s> <gen>
+konuşmanın	konuş <v> <vn_ma> <p2s> <gen> <3s>
+konuşmanın	konuş <v> <vn_ma> <p2s> <gen> <3p>
+konuşmanın	konuş <v> <vn_ma> <gen>
+konuşmanın	konuş <v> <vn_ma> <gen> <3s>
+konuşmanın	konuş <v> <vn_ma> <gen> <3p>
+doğru	doğru <adj> <Djn_0> <n>
+doğru	doğru <adj> <Djn_0> <n> <3s>
+doğru	doğru <adj> <Djn_0> <n> <3p>
+doğru	doğru <postp>
+yolu	yol <n> <p3s> <3s>
+yolu	yol <n> <p3s> <3p>
+yolu	yol <n> <acc>
+yolu	yol <n> <acc> <3s>
+yolu	yol <n> <acc> <3p>
+olması	ol <v> <D_mA> <n> <p3s> <3s>
+olması	ol <v> <D_mA> <n> <p3s> <3p>
+olması	ol <v> <vn_ma> <p3s>
+olması	ol <v> <vn_ma> <p3s> <3s>
+olması	ol <v> <vn_ma> <p3s> <3p>
+olması	ol <v> <cv_ma> <p3s>
+gerektiğini	gerek <v> <part_dik> <p2s> <acc> <3s>
+gerektiğini	gerek <v> <part_dik> <p2s> <acc> <3p>
+gerektiğini	gerek <v> <part_dik> <p3s> <acc>
+gerektiğini	gerek <v> <part_dik> <p3s> <acc> <3s>
+gerektiğini	gerek <v> <part_dik> <p3s> <acc> <3p>
+gerektiğini	gerek <v> <cv_dik> <p3s> <acc>
+düşündü:	düşün <n> <cpl_di> <3p>
+düşündü:	düşün <n> <3p> <cpl_di>
+düşündü:	düşün <v> <t_past> <3s>
+düşündü:	düşün <v> <t_past> <3p>
+düşündü:	düş <n> <p2s> <cpl_di> <3s>
+düşündü:	düş <n> <p2s> <cpl_di> <3p>
+düşündü:	düş <n> <p2s> <3p> <cpl_di>
+düşündü:	düş <n> <gen> <cpl_di> <3s>
+düşündü:	düş <n> <gen> <cpl_di> <3p>
+düşündü:	düş <n> <gen> <3p> <cpl_di>
+daha	daha <adv> <Dan_0> <n>
+daha	daha <adv> <Dan_0> <n> <3s>
+daha	daha <adv> <Dan_0> <n> <3p>
+daha	daha <n>
+daha	daha <n> <3s>
+daha	daha <n> <3p>
+önce	önce <adv> <Dan_0> <n>
+önce	önce <adv> <Dan_0> <n> <3s>
+önce	önce <adv> <Dan_0> <n> <3p>
+önce	önce <postp>
+önce	ön <n> <D_CA> <adj>
+önce	ön <n> <D_CA> <adj> <Djn_0> <n>
+önce	ön <n> <D_CA> <adj> <Djn_0> <n> <3s>
+önce	ön <n> <D_CA> <adj> <Djn_0> <n> <3p>
+önce	ön <n> <D_CA> <adv>
+önce	ön <n> <D_CA> <adv> <Dan_0> <n>
+önce	ön <n> <D_CA> <adv> <Dan_0> <n> <3s>
+önce	ön <n> <D_CA> <adv> <Dan_0> <n> <3p>
+önce	ön <n> <D_CA> <n>
+önce	ön <n> <D_CA> <n> <3s>
+önce	ön <n> <D_CA> <n> <3p>
+önce	ön <n> <ca>
+hiç	hiç <adv> <Dan_0> <n>
+hiç	hiç <adv> <Dan_0> <n> <3s>
+hiç	hiç <adv> <Dan_0> <n> <3p>
+hiç	hiç <n>
+hiç	hiç <n> <3s>
+hiç	hiç <n> <3p>
+böyle	böyle <adj> <Djn_0> <n>
+böyle	böyle <adj> <Djn_0> <n> <3s>
+böyle	böyle <adj> <Djn_0> <n> <3p>
+böyle	böyle <adv>
+böyle	böyle <adv> <Dan_0> <n>
+böyle	böyle <adv> <Dan_0> <n> <3s>
+böyle	böyle <adv> <Dan_0> <n> <3p>
+böyle	böyle <ij>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+şey	şey <n> <3s>
+şey	şey <n> <3p>
+yapmamıştı,	yap <v> <neg> <t_narr> <cpl_di> <3p>
+yapmamıştı,	yap <v> <neg> <t_narr> <3p> <cpl_di>
+ama	ama <n> <3s>
+ama	ama <n> <3p>
+ama	ama <cnjcoo>
+ama	ama <cnjadv>
+kardeşinin	kardeş <n> <p2s> <gen> <3s>
+kardeşinin	kardeş <n> <p2s> <gen> <3p>
+kardeşinin	kardeş <n> <p3s> <gen>
+kardeşinin	kardeş <n> <p3s> <gen> <3s>
+kardeşinin	kardeş <n> <p3s> <gen> <3p>
+Latince	<unk>
+Dilbilgisi'nde,	dilbilgi <n> <p3s> <loc> <3s>
+Dilbilgisi'nde,	dilbilgi <n> <p3s> <loc> <3p>
+"Bir	bir <adj> <Djn_0> <n>
+"Bir	bir <adj> <Djn_0> <n> <3s>
+"Bir	bir <adj> <Djn_0> <n> <3p>
+"Bir	bir <num>
+"Bir	bir <num> <Dmn_0> <n>
+"Bir	bir <num> <Dmn_0> <n> <3s>
+"Bir	bir <num> <Dmn_0> <n> <3p>
+"Bir	bir <det>
+farebir	<unk>
+fareninbir	<unk>
+fareyebir	<unk>
+fareEy	<unk>
+fare!"	fare <n> <3s>
+fare!"	fare <n> <3p>
+dediğini	de <v> <vn_dik> <p2s> <acc> <3s>
+dediğini	de <v> <vn_dik> <p2s> <acc> <3p>
+dediğini	de <v> <vn_dik> <p3s> <acc>
+dediğini	de <v> <vn_dik> <p3s> <acc> <3s>
+dediğini	de <v> <vn_dik> <p3s> <acc> <3p>
+dediğini	de <v> <part_dik> <p2s> <acc>
+dediğini	de <v> <part_dik> <p2s> <acc> <3s>
+dediğini	de <v> <part_dik> <p2s> <acc> <3p>
+dediğini	de <v> <part_dik> <p3s> <acc>
+dediğini	de <v> <part_dik> <p3s> <acc> <3s>
+dediğini	de <v> <part_dik> <p3s> <acc> <3p>
+dediğini	de <v> <cv_dik> <p3s> <acc>
+gördüğünü	gör <v> <vn_dik> <p2s> <acc> <3s>
+gördüğünü	gör <v> <vn_dik> <p2s> <acc> <3p>
+gördüğünü	gör <v> <vn_dik> <p3s> <acc>
+gördüğünü	gör <v> <vn_dik> <p3s> <acc> <3s>
+gördüğünü	gör <v> <vn_dik> <p3s> <acc> <3p>
+gördüğünü	gör <v> <part_dik> <p2s> <acc>
+gördüğünü	gör <v> <part_dik> <p2s> <acc> <3s>
+gördüğünü	gör <v> <part_dik> <p2s> <acc> <3p>
+gördüğünü	gör <v> <part_dik> <p3s> <acc>
+gördüğünü	gör <v> <part_dik> <p3s> <acc> <3s>
+gördüğünü	gör <v> <part_dik> <p3s> <acc> <3p>
+gördüğünü	gör <v> <cv_dik> <p3s> <acc>
+hatırladı.)	hatırla <v> <t_past> <3p>
+hatırladı.)	hatır <n> <D_lA> <v> <t_past> <3s>
+hatırladı.)	hatır <n> <D_lA> <v> <t_past> <3p>
+Fare	fare <n> <3s>
+Fare	fare <n> <3p>
+ona	ona <v> <t_imp> <3p>
+ona	on <n> <dat>
+ona	on <n> <dat> <3s>
+ona	on <n> <dat> <3p>
+ona	on <v> <t_opt> <3s>
+ona	on <v> <t_opt> <3p>
+ona	on <num> <Dmn_0> <n> <dat>
+ona	on <num> <Dmn_0> <n> <dat> <3s>
+ona	on <num> <Dmn_0> <n> <dat> <3p>
+ona	o <prn> <pers> <dat>
+ona	o <prn> <pers> <dat> <3s>
+ona	o <prn> <pers> <dat> <3p>
+oldukça	<unk>
+meraklı	merak <n> <D_lI> <adj> <Djn_0> <n>
+meraklı	merak <n> <D_lI> <adj> <Djn_0> <n> <3s>
+meraklı	merak <n> <D_lI> <adj> <Djn_0> <n> <3p>
+meraklı	merak <n> <D_lI> <n>
+meraklı	merak <n> <D_lI> <n> <3s>
+meraklı	merak <n> <D_lI> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+şekilde	şekil <n> <loc> <3s>
+şekilde	şekil <n> <loc> <3p>
+baktı	bak <v> <t_past> <3p>
+ve	ve <cnjadv>
+ona	ona <v> <t_imp> <3p>
+ona	on <n> <dat>
+ona	on <n> <dat> <3s>
+ona	on <n> <dat> <3p>
+ona	on <v> <t_opt> <3s>
+ona	on <v> <t_opt> <3p>
+ona	on <num> <Dmn_0> <n> <dat>
+ona	on <num> <Dmn_0> <n> <dat> <3s>
+ona	on <num> <Dmn_0> <n> <dat> <3p>
+ona	o <prn> <pers> <dat>
+ona	o <prn> <pers> <dat> <3s>
+ona	o <prn> <pers> <dat> <3p>
+küçük	küçük <adj> <Djn_0> <n>
+küçük	küçük <adj> <Djn_0> <n> <3s>
+küçük	küçük <adj> <Djn_0> <n> <3p>
+küçük	küçük <n>
+küçük	küçük <n> <3s>
+küçük	küçük <n> <3p>
+gözlerinden	göz <n> <pl> <p2s> <abl> <3s>
+gözlerinden	göz <n> <pl> <p2s> <abl> <3p>
+gözlerinden	göz <n> <pl> <p3s> <abl>
+gözlerinden	göz <n> <pl> <p3s> <abl> <3s>
+gözlerinden	göz <n> <pl> <p3s> <abl> <3p>
+gözlerinden	göz <n> <p3p> <abl>
+gözlerinden	göz <n> <p3p> <abl> <3s>
+gözlerinden	göz <n> <p3p> <abl> <3p>
+biriyle	biri <n> <ins> <3s>
+biriyle	biri <n> <ins> <3p>
+biriyle	bir <adj> <Djn_0> <n> <p3s> <ins>
+biriyle	bir <adj> <Djn_0> <n> <p3s> <ins> <3s>
+biriyle	bir <adj> <Djn_0> <n> <p3s> <ins> <3p>
+biriyle	bir <num> <Dmn_0> <n> <p3s> <ins>
+biriyle	bir <num> <Dmn_0> <n> <p3s> <ins> <3s>
+biriyle	bir <num> <Dmn_0> <n> <p3s> <ins> <3p>
+göz	göz <n> <3s>
+göz	göz <n> <3p>
+kırpıyor	kırp <v> <t_cont> <3p>
+kırpıyor	kırp <v> <cv_iyor>
+gibi	gibi <cnjsub>
+göründü,	görün <v> <t_past> <3p>
+göründü,	görü <n> <p2s> <cpl_di> <3s>
+göründü,	görü <n> <p2s> <cpl_di> <3p>
+göründü,	görü <n> <p2s> <3p> <cpl_di>
+ama	ama <n> <3s>
+ama	ama <n> <3p>
+ama	ama <cnjcoo>
+ama	ama <cnjadv>
+hiçbir	hiçbir <adj> <Djn_0> <n>
+hiçbir	hiçbir <adj> <Djn_0> <n> <3s>
+hiçbir	hiçbir <adj> <Djn_0> <n> <3p>
+hiçbir	hiçbir <det>
+şey	şey <n> <3s>
+şey	şey <n> <3p>
+söylemedi.	söyle <v> <neg> <t_past> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Belki	belki <adv> <Dan_0> <n>
+"Belki	belki <adv> <Dan_0> <n> <3s>
+"Belki	belki <adv> <Dan_0> <n> <3p>
+"Belki	belki <cnjadv>
+İngilizce	<unk>
+anlamıyordur,"	anla <v> <neg> <t_cont> <3p> <dir>
+anlamıyordur,"	an <n> <D_lA> <v> <neg> <t_cont> <3s> <dir>
+anlamıyordur,"	an <n> <D_lA> <v> <neg> <t_cont> <3p> <dir>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+düşündü	düşün <n> <cpl_di> <3p>
+düşündü	düşün <n> <3p> <cpl_di>
+düşündü	düşün <v> <t_past> <3s>
+düşündü	düşün <v> <t_past> <3p>
+düşündü	düş <n> <p2s> <cpl_di> <3s>
+düşündü	düş <n> <p2s> <cpl_di> <3p>
+düşündü	düş <n> <p2s> <3p> <cpl_di>
+düşündü	düş <n> <gen> <cpl_di> <3s>
+düşündü	düş <n> <gen> <cpl_di> <3p>
+düşündü	düş <n> <gen> <3p> <cpl_di>
+Alice;	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice;	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice;	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice;	ali <n> <D_CA> <adv>
+Alice;	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice;	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice;	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice;	ali <n> <D_CA> <n>
+Alice;	ali <n> <D_CA> <n> <3s>
+Alice;	ali <n> <D_CA> <n> <3p>
+"Sanırım	<unk>
+William	<unk>
+the	<unk>
+Conqueror	<unk>
+ile	ile <cnjcoo>
+ile	il <n> <dat>
+ile	il <n> <dat> <3s>
+ile	il <n> <dat> <3p>
+birlikte	birlikte <adv> <Dan_0> <n>
+birlikte	birlikte <adv> <Dan_0> <n> <3s>
+birlikte	birlikte <adv> <Dan_0> <n> <3p>
+birlikte	birlikte <n>
+birlikte	birlikte <n> <3s>
+birlikte	birlikte <n> <3p>
+birlikte	birlikte <postp>
+birlikte	birlik <n> <loc>
+birlikte	birlik <n> <loc> <3s>
+birlikte	birlik <n> <loc> <3p>
+birlikte	bir <adj> <D_lIK> <n> <loc>
+birlikte	bir <adj> <D_lIK> <n> <loc> <3s>
+birlikte	bir <adj> <D_lIK> <n> <loc> <3p>
+birlikte	bir <adj> <Djn_0> <n> <D_lIK> <n> <loc>
+birlikte	bir <adj> <Djn_0> <n> <D_lIK> <n> <loc> <3s>
+birlikte	bir <adj> <Djn_0> <n> <D_lIK> <n> <loc> <3p>
+birlikte	bir <num> <Dmn_0> <n> <D_lIK> <n> <loc>
+birlikte	bir <num> <Dmn_0> <n> <D_lIK> <n> <loc> <3s>
+birlikte	bir <num> <Dmn_0> <n> <D_lIK> <n> <loc> <3p>
+gelen	gele <n> <p2s> <3s>
+gelen	gele <n> <p2s> <3p>
+gelen	gel <v> <part_yan>
+gelen	gel <v> <part_yan> <3s>
+gelen	gel <v> <part_yan> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+Fransız	<unk>
+faresidir."	fare <n> <p3s> <3p> <dir>
+faresidir."	fare <n> <p3s> <dir> <3p>
+(Çünkü	çünkü <cnjadv>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice,	ali <n> <D_CA> <adv>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice,	ali <n> <D_CA> <n>
+Alice,	ali <n> <D_CA> <n> <3s>
+Alice,	ali <n> <D_CA> <n> <3p>
+tüm	tüm <adj> <Djn_0> <n>
+tüm	tüm <adj> <Djn_0> <n> <3s>
+tüm	tüm <adj> <Djn_0> <n> <3p>
+tüm	tüm <det>
+tarih	tarih <n> <3s>
+tarih	tarih <n> <3p>
+bilgisine	bilgi <n> <p3s> <dat> <3s>
+bilgisine	bilgi <n> <p3s> <dat> <3p>
+rağmen,	<unk>
+herhangi	<unk>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+şeyin	şey <n> <p2s> <3s>
+şeyin	şey <n> <p2s> <3p>
+şeyin	şey <n> <gen>
+şeyin	şey <n> <gen> <3s>
+şeyin	şey <n> <gen> <3p>
+ne	ne <prn> <qst> <3s>
+ne	ne <prn> <qst> <3p>
+ne	ne <cnjcoo>
+kadar	<unk>
+zaman	zaman <n> <3s>
+zaman	zaman <n> <3p>
+önce	önce <adv> <Dan_0> <n>
+önce	önce <adv> <Dan_0> <n> <3s>
+önce	önce <adv> <Dan_0> <n> <3p>
+önce	önce <postp>
+önce	ön <n> <D_CA> <adj>
+önce	ön <n> <D_CA> <adj> <Djn_0> <n>
+önce	ön <n> <D_CA> <adj> <Djn_0> <n> <3s>
+önce	ön <n> <D_CA> <adj> <Djn_0> <n> <3p>
+önce	ön <n> <D_CA> <adv>
+önce	ön <n> <D_CA> <adv> <Dan_0> <n>
+önce	ön <n> <D_CA> <adv> <Dan_0> <n> <3s>
+önce	ön <n> <D_CA> <adv> <Dan_0> <n> <3p>
+önce	ön <n> <D_CA> <n>
+önce	ön <n> <D_CA> <n> <3s>
+önce	ön <n> <D_CA> <n> <3p>
+önce	ön <n> <ca>
+olduğu	ol <v> <vn_dik> <p3s> <3s>
+olduğu	ol <v> <vn_dik> <p3s> <3p>
+olduğu	ol <v> <vn_dik> <acc>
+olduğu	ol <v> <vn_dik> <acc> <3s>
+olduğu	ol <v> <vn_dik> <acc> <3p>
+olduğu	ol <v> <part_dik> <p3s>
+olduğu	ol <v> <part_dik> <p3s> <3s>
+olduğu	ol <v> <part_dik> <p3s> <3p>
+olduğu	ol <v> <part_dik> <acc>
+olduğu	ol <v> <part_dik> <acc> <3s>
+olduğu	ol <v> <part_dik> <acc> <3p>
+olduğu	ol <v> <cv_dik> <p3s>
+konusunda	konu <n> <p3s> <loc> <3s>
+konusunda	konu <n> <p3s> <loc> <3p>
+pek	pek <adj> <Djn_0> <n>
+pek	pek <adj> <Djn_0> <n> <3s>
+pek	pek <adj> <Djn_0> <n> <3p>
+pek	pek <adv>
+pek	pek <adv> <Dan_0> <n>
+pek	pek <adv> <Dan_0> <n> <3s>
+pek	pek <adv> <Dan_0> <n> <3p>
+net	net <n> <3s>
+net	net <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+fikre	fikir <n> <dat> <3s>
+fikre	fikir <n> <dat> <3p>
+sahip	sahip <n> <3s>
+sahip	sahip <n> <3p>
+değildi.)	değil <not> <cpl_di> <3p>
+değildi.)	değil <not> <3p> <cpl_di>
+değildi.)	değ <v> <pass> <t_past> <3s>
+değildi.)	değ <v> <pass> <t_past> <3p>
+Böylece	böylece <adv> <Dan_0> <n>
+Böylece	böylece <adv> <Dan_0> <n> <3s>
+Böylece	böylece <adv> <Dan_0> <n> <3p>
+Böylece	böyle <adj> <D_CA> <adj>
+Böylece	böyle <adj> <D_CA> <adj> <Djn_0> <n>
+Böylece	böyle <adj> <D_CA> <adj> <Djn_0> <n> <3s>
+Böylece	böyle <adj> <D_CA> <adj> <Djn_0> <n> <3p>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adj>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adv>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <n>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <n> <3s>
+Böylece	böyle <adj> <Djn_0> <n> <D_CA> <n> <3p>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adj>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adj> <Djn_0> <n>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adv>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adv> <Dan_0> <n>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <n>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <n> <3s>
+Böylece	böyle <adv> <Dan_0> <n> <D_CA> <n> <3p>
+yeniden	yeniden <adv> <Dan_0> <n>
+yeniden	yeniden <adv> <Dan_0> <n> <3s>
+yeniden	yeniden <adv> <Dan_0> <n> <3p>
+yeniden	yeni <adj> <Djn_0> <n> <abl>
+yeniden	yeni <adj> <Djn_0> <n> <abl> <3s>
+yeniden	yeni <adj> <Djn_0> <n> <abl> <3p>
+başladı:	baş <n> <D_lA> <v> <t_past> <3p>
+"O	o <prn> <pers> <3s>
+"O	o <prn> <pers> <3p>
+"O	o <ij>
+"O	o <det>
+est	<unk>
+ma	<unk>
+chatte?"	<unk>
+ki	ki <cnjadv>
+bu	bu <prn> <dem> <3s>
+bu	bu <prn> <dem> <3p>
+bu	bu <det>
+onun	onun <n> <3s>
+onun	onun <n> <3p>
+onun	on <n> <p2s>
+onun	on <n> <p2s> <3s>
+onun	on <n> <p2s> <3p>
+onun	on <n> <gen>
+onun	on <n> <gen> <3s>
+onun	on <n> <gen> <3p>
+onun	on <v> <t_imp> <2p>
+onun	on <num> <Dmn_0> <n> <p2s>
+onun	on <num> <Dmn_0> <n> <p2s> <3s>
+onun	on <num> <Dmn_0> <n> <p2s> <3p>
+onun	on <num> <Dmn_0> <n> <gen>
+onun	on <num> <Dmn_0> <n> <gen> <3s>
+onun	on <num> <Dmn_0> <n> <gen> <3p>
+onun	o <prn> <pers> <p2s>
+onun	o <prn> <pers> <p2s> <3s>
+onun	o <prn> <pers> <p2s> <3p>
+onun	o <prn> <pers> <gen>
+onun	o <prn> <pers> <gen> <3s>
+onun	o <prn> <pers> <gen> <3p>
+Fransızca	<unk>
+ders	ders <n> <3s>
+ders	ders <n> <3p>
+kitabındaki	kitap <n> <p2s> <loc> <ki> <3s>
+kitabındaki	kitap <n> <p2s> <loc> <ki> <3p>
+kitabındaki	kitap <n> <p3s> <loc> <ki>
+kitabındaki	kitap <n> <p3s> <loc> <ki> <3s>
+kitabındaki	kitap <n> <p3s> <loc> <ki> <3p>
+ilk	ilk <adj> <Djn_0> <n>
+ilk	ilk <adj> <Djn_0> <n> <3s>
+ilk	ilk <adj> <Djn_0> <n> <3p>
+ilk	ilk <adv>
+ilk	ilk <adv> <Dan_0> <n>
+ilk	ilk <adv> <Dan_0> <n> <3s>
+ilk	ilk <adv> <Dan_0> <n> <3p>
+cümleydi.	cümle <n> <cpl_di> <3p>
+cümleydi.	cümle <n> <3p> <cpl_di>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Fare	fare <n> <3s>
+Fare	fare <n> <3p>
+aniden	aniden <adv> <Dan_0> <n>
+aniden	aniden <adv> <Dan_0> <n> <3s>
+aniden	aniden <adv> <Dan_0> <n> <3p>
+aniden	anide <adv> <Dan_0> <n> <p2s>
+aniden	anide <adv> <Dan_0> <n> <p2s> <3s>
+aniden	anide <adv> <Dan_0> <n> <p2s> <3p>
+aniden	anide <n> <p2s>
+aniden	anide <n> <p2s> <3s>
+aniden	anide <n> <p2s> <3p>
+aniden	ani <n> <abl>
+aniden	ani <n> <abl> <3s>
+aniden	ani <n> <abl> <3p>
+sudan	sudan <n> <3s>
+sudan	sudan <n> <3p>
+sudan	su <n> <abl>
+sudan	su <n> <abl> <3s>
+sudan	su <n> <abl> <3p>
+dışarı	dışarı <n> <3s>
+dışarı	dışarı <n> <3p>
+dışarı	dışarı <n> <p3s>
+dışarı	dışarı <n> <p3s> <3s>
+dışarı	dışarı <n> <p3s> <3p>
+dışarı	dışarı <n> <acc>
+dışarı	dışarı <n> <acc> <3s>
+dışarı	dışarı <n> <acc> <3p>
+sıçradı	sıçra <v> <t_past> <3p>
+ve	ve <cnjadv>
+korkudan	korku <n> <abl> <3s>
+korkudan	korku <n> <abl> <3p>
+her	<unk>
+tarafı	taraf <n> <p3s> <3s>
+tarafı	taraf <n> <p3s> <3p>
+tarafı	taraf <n> <acc>
+tarafı	taraf <n> <acc> <3s>
+tarafı	taraf <n> <acc> <3p>
+titrer	titre <v> <t_aor> <3p>
+gibi	gibi <cnjsub>
+göründü.	görün <v> <t_past> <3p>
+göründü.	görü <n> <p2s> <cpl_di> <3s>
+göründü.	görü <n> <p2s> <cpl_di> <3p>
+göründü.	görü <n> <p2s> <3p> <cpl_di>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Ah,	ah <n> <3s>
+"Ah,	ah <n> <3p>
+"Ah,	ah <ij>
+özür	özür <n> <3s>
+özür	özür <n> <3p>
+dilerim!"	dil <v> <t_aor> <1s>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+bağırdı	bağır <n> <cpl_di> <3p>
+bağırdı	bağır <n> <3p> <cpl_di>
+bağırdı	bağır <v> <t_past> <3s>
+bağırdı	bağır <v> <t_past> <3p>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice	ali <n> <D_CA> <adv>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice	ali <n> <D_CA> <n>
+Alice	ali <n> <D_CA> <n> <3s>
+Alice	ali <n> <D_CA> <n> <3p>
+aceleyle,	acele <adj> <Djn_0> <n> <ins> <3s>
+aceleyle,	acele <adj> <Djn_0> <n> <ins> <3p>
+aceleyle,	acele <adv> <Dan_0> <n> <ins>
+aceleyle,	acele <adv> <Dan_0> <n> <ins> <3s>
+aceleyle,	acele <adv> <Dan_0> <n> <ins> <3p>
+zavallı	zavallı <n> <3s>
+zavallı	zavallı <n> <3p>
+hayvanın	hayvan <adj> <Djn_0> <n> <p2s> <3s>
+hayvanın	hayvan <adj> <Djn_0> <n> <p2s> <3p>
+hayvanın	hayvan <adj> <Djn_0> <n> <gen>
+hayvanın	hayvan <adj> <Djn_0> <n> <gen> <3s>
+hayvanın	hayvan <adj> <Djn_0> <n> <gen> <3p>
+hayvanın	hayvan <n> <p2s>
+hayvanın	hayvan <n> <p2s> <3s>
+hayvanın	hayvan <n> <p2s> <3p>
+hayvanın	hayvan <n> <gen>
+hayvanın	hayvan <n> <gen> <3s>
+hayvanın	hayvan <n> <gen> <3p>
+duygularını	duygu <n> <pl> <p2s> <acc> <3s>
+duygularını	duygu <n> <pl> <p2s> <acc> <3p>
+duygularını	duygu <n> <pl> <p3s> <acc>
+duygularını	duygu <n> <pl> <p3s> <acc> <3s>
+duygularını	duygu <n> <pl> <p3s> <acc> <3p>
+duygularını	duygu <n> <p3p> <acc>
+duygularını	duygu <n> <p3p> <acc> <3s>
+duygularını	duygu <n> <p3p> <acc> <3p>
+incittiğinden	incit <v> <part_dik> <p2s> <abl> <3s>
+incittiğinden	incit <v> <part_dik> <p2s> <abl> <3p>
+incittiğinden	incit <v> <part_dik> <p3s> <abl>
+incittiğinden	incit <v> <part_dik> <p3s> <abl> <3s>
+incittiğinden	incit <v> <part_dik> <p3s> <abl> <3p>
+incittiğinden	incit <v> <cv_dik> <p3s> <abl>
+korkarak.	<unk>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Kedileri	kedi <n> <pl> <p3s> <3s>
+"Kedileri	kedi <n> <pl> <p3s> <3p>
+"Kedileri	kedi <n> <pl> <acc>
+"Kedileri	kedi <n> <pl> <acc> <3s>
+"Kedileri	kedi <n> <pl> <acc> <3p>
+"Kedileri	kedi <n> <p3p>
+"Kedileri	kedi <n> <p3p> <3s>
+"Kedileri	kedi <n> <p3p> <3p>
+sevmediğini	sev <v> <neg> <vn_dik> <p2s> <acc> <3s>
+sevmediğini	sev <v> <neg> <vn_dik> <p2s> <acc> <3p>
+sevmediğini	sev <v> <neg> <vn_dik> <p3s> <acc>
+sevmediğini	sev <v> <neg> <vn_dik> <p3s> <acc> <3s>
+sevmediğini	sev <v> <neg> <vn_dik> <p3s> <acc> <3p>
+sevmediğini	sev <v> <neg> <part_dik> <p2s> <acc>
+sevmediğini	sev <v> <neg> <part_dik> <p2s> <acc> <3s>
+sevmediğini	sev <v> <neg> <part_dik> <p2s> <acc> <3p>
+sevmediğini	sev <v> <neg> <part_dik> <p3s> <acc>
+sevmediğini	sev <v> <neg> <part_dik> <p3s> <acc> <3s>
+sevmediğini	sev <v> <neg> <part_dik> <p3s> <acc> <3p>
+sevmediğini	sev <v> <neg> <cv_dik> <p3s> <acc>
+tamamen	tamamen <adv> <Dan_0> <n>
+tamamen	tamamen <adv> <Dan_0> <n> <3s>
+tamamen	tamamen <adv> <Dan_0> <n> <3p>
+unutmuşum."	<unk>
+"Kedileri	kedi <n> <pl> <p3s> <3s>
+"Kedileri	kedi <n> <pl> <p3s> <3p>
+"Kedileri	kedi <n> <pl> <acc>
+"Kedileri	kedi <n> <pl> <acc> <3s>
+"Kedileri	kedi <n> <pl> <acc> <3p>
+"Kedileri	kedi <n> <p3p>
+"Kedileri	kedi <n> <p3p> <3s>
+"Kedileri	kedi <n> <p3p> <3p>
+sevmiyorum!"	<unk>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+bağırdı	bağır <n> <cpl_di> <3p>
+bağırdı	bağır <n> <3p> <cpl_di>
+bağırdı	bağır <v> <t_past> <3s>
+bağırdı	bağır <v> <t_past> <3p>
+Fare,	fare <n> <3s>
+Fare,	fare <n> <3p>
+tiz	tiz <n> <3s>
+tiz	tiz <n> <3p>
+ve	ve <cnjadv>
+tutkulu	tutku <n> <D_lI> <adj> <Djn_0> <n>
+tutkulu	tutku <n> <D_lI> <adj> <Djn_0> <n> <3s>
+tutkulu	tutku <n> <D_lI> <adj> <Djn_0> <n> <3p>
+tutkulu	tutku <n> <D_lI> <n>
+tutkulu	tutku <n> <D_lI> <n> <3s>
+tutkulu	tutku <n> <D_lI> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+sesle.	sesle <v> <t_imp> <3p>
+sesle.	ses <n> <D_lA> <v> <t_imp> <2s>
+sesle.	ses <n> <D_lA> <v> <t_imp> <3p>
+sesle.	ses <n> <ins>
+sesle.	ses <n> <ins> <3s>
+sesle.	ses <n> <ins> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Ben	ben <prn> <pers> <3s>
+"Ben	ben <prn> <pers> <3p>
+olsaydın	<unk>
+kedileri	kedi <n> <pl> <p3s> <3s>
+kedileri	kedi <n> <pl> <p3s> <3p>
+kedileri	kedi <n> <pl> <acc>
+kedileri	kedi <n> <pl> <acc> <3s>
+kedileri	kedi <n> <pl> <acc> <3p>
+kedileri	kedi <n> <p3p>
+kedileri	kedi <n> <p3p> <3s>
+kedileri	kedi <n> <p3p> <3p>
+sever	sev <v> <t_aor> <3p>
+miydin?"	<unk>
+"Pekâlâ,	<unk>
+belki	belki <adv> <Dan_0> <n>
+belki	belki <adv> <Dan_0> <n> <3s>
+belki	belki <adv> <Dan_0> <n> <3p>
+belki	belki <cnjadv>
+de	de <v> <t_imp> <2s>
+de	de <v> <t_imp> <3p>
+değil,"	değil <not> <3p>
+değil,"	değ <v> <pass> <t_imp> <2s>
+değil,"	değ <v> <pass> <t_imp> <3p>
+dedi	de <v> <t_past> <3p>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice	ali <n> <D_CA> <adv>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice	ali <n> <D_CA> <n>
+Alice	ali <n> <D_CA> <n> <3s>
+Alice	ali <n> <D_CA> <n> <3p>
+yatıştırıcı	yatıştırıcı <n> <3s>
+yatıştırıcı	yatıştırıcı <n> <3p>
+yatıştırıcı	yatış <v> <caus> <Dvn_yIcI> <adj>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+sesle:	sesle <v> <t_imp> <3p>
+sesle:	ses <n> <D_lA> <v> <t_imp> <2s>
+sesle:	ses <n> <D_lA> <v> <t_imp> <3p>
+sesle:	ses <n> <ins>
+sesle:	ses <n> <ins> <3s>
+sesle:	ses <n> <ins> <3p>
+"buna	buna <v> <t_imp> <3p>
+"buna	bun <n> <dat>
+"buna	bun <n> <dat> <3s>
+"buna	bun <n> <dat> <3p>
+"buna	bu <prn> <dem> <dat>
+"buna	bu <prn> <dem> <dat> <3s>
+"buna	bu <prn> <dem> <dat> <3p>
+kızma.	kız <v> <D_mA> <n> <3s>
+kızma.	kız <v> <D_mA> <n> <3p>
+kızma.	kız <v> <neg> <t_imp> <2s>
+kızma.	kız <v> <neg> <t_imp> <3p>
+kızma.	kız <v> <vn_ma>
+kızma.	kız <v> <vn_ma> <3s>
+kızma.	kız <v> <vn_ma> <3p>
+kızma.	kız <v> <cv_ma>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yine	yine <adv> <Dan_0> <n>
+Yine	yine <adv> <Dan_0> <n> <3s>
+Yine	yine <adv> <Dan_0> <n> <3p>
+de	de <v> <t_imp> <2s>
+de	de <v> <t_imp> <3p>
+sana	san <n> <dat> <3s>
+sana	san <n> <dat> <3p>
+sana	san <v> <t_opt> <3s>
+sana	san <v> <t_opt> <3p>
+sana	sen <prn> <pers> <dat>
+sana	sen <prn> <pers> <dat> <3s>
+sana	sen <prn> <pers> <dat> <3p>
+kedimiz	kedi <n> <p1p>
+kedimiz	kedi <n> <p1p> <3s>
+kedimiz	kedi <n> <p1p> <3p>
+Dinah'ı	<unk>
+gösterebilmeyi	göster <v> <abil> <vn_ma> <acc> <3s>
+gösterebilmeyi	göster <v> <abil> <vn_ma> <acc> <3p>
+gösterebilmeyi	göster <v> <abil> <vn_mak> <acc>
+gösterebilmeyi	göster <v> <abil> <vn_mak> <acc> <3s>
+gösterebilmeyi	göster <v> <abil> <vn_mak> <acc> <3p>
+isterdim:	iste <v> <t_aor> <cpl_di> <1s>
+sanırım	<unk>
+onu	on <n> <p3s> <3s>
+onu	on <n> <p3s> <3p>
+onu	on <n> <acc>
+onu	on <n> <acc> <3s>
+onu	on <n> <acc> <3p>
+onu	on <num> <Dmn_0> <n> <p3s>
+onu	on <num> <Dmn_0> <n> <p3s> <3s>
+onu	on <num> <Dmn_0> <n> <p3s> <3p>
+onu	on <num> <Dmn_0> <n> <acc>
+onu	on <num> <Dmn_0> <n> <acc> <3s>
+onu	on <num> <Dmn_0> <n> <acc> <3p>
+onu	o <prn> <pers> <p3s>
+onu	o <prn> <pers> <p3s> <3s>
+onu	o <prn> <pers> <p3s> <3p>
+onu	o <prn> <pers> <acc>
+onu	o <prn> <pers> <acc> <3s>
+onu	o <prn> <pers> <acc> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+görsen	<unk>
+kedilere	kedi <n> <pl> <dat> <3s>
+kedilere	kedi <n> <pl> <dat> <3p>
+hayran	hayran <adj> <Djn_0> <n>
+hayran	hayran <adj> <Djn_0> <n> <3s>
+hayran	hayran <adj> <Djn_0> <n> <3p>
+hayran	hayran <n>
+hayran	hayran <n> <3s>
+hayran	hayran <n> <3p>
+kalırdın.	<unk>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"O	o <prn> <pers> <3s>
+"O	o <prn> <pers> <3p>
+"O	o <ij>
+"O	o <det>
+kadar	<unk>
+tatlı	tatlı <adj> <Djn_0> <n>
+tatlı	tatlı <adj> <Djn_0> <n> <3s>
+tatlı	tatlı <adj> <Djn_0> <n> <3p>
+tatlı	tat <n> <D_lI> <adj>
+tatlı	tat <n> <D_lI> <adj> <Djn_0> <n>
+tatlı	tat <n> <D_lI> <adj> <Djn_0> <n> <3s>
+tatlı	tat <n> <D_lI> <adj> <Djn_0> <n> <3p>
+tatlı	tat <n> <D_lI> <n>
+tatlı	tat <n> <D_lI> <n> <3s>
+tatlı	tat <n> <D_lI> <n> <3p>
+ve	ve <cnjadv>
+sessiz	sessiz <adj> <Djn_0> <n>
+sessiz	sessiz <adj> <Djn_0> <n> <3s>
+sessiz	sessiz <adj> <Djn_0> <n> <3p>
+sessiz	ses <n> <Dnn_siz> <adj>
+sessiz	ses <n> <Dnn_siz> <adj> <Djn_0> <n>
+sessiz	ses <n> <Dnn_siz> <adj> <Djn_0> <n> <3s>
+sessiz	ses <n> <Dnn_siz> <adj> <Djn_0> <n> <3p>
+sessiz	ses <n> <Dnn_siz> <adv>
+sessiz	ses <n> <Dnn_siz> <adv> <Dan_0> <n>
+sessiz	ses <n> <Dnn_siz> <adv> <Dan_0> <n> <3s>
+sessiz	ses <n> <Dnn_siz> <adv> <Dan_0> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+şey	şey <n> <3s>
+şey	şey <n> <3p>
+ki,"	ki <cnjadv>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+devam	devam <n> <3s>
+devam	devam <n> <3p>
+devam	deva <n> <p1s>
+devam	deva <n> <p1s> <3s>
+devam	deva <n> <p1s> <3p>
+etti	et <n> <cpl_di> <3p>
+etti	et <n> <3p> <cpl_di>
+etti	et <v> <t_past> <3s>
+etti	et <v> <t_past> <3p>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice,	ali <n> <D_CA> <adv>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice,	ali <n> <D_CA> <n>
+Alice,	ali <n> <D_CA> <n> <3s>
+Alice,	ali <n> <D_CA> <n> <3p>
+havuzda	havuz <n> <loc> <3s>
+havuzda	havuz <n> <loc> <3p>
+tembel	tembel <adj> <Djn_0> <n>
+tembel	tembel <adj> <Djn_0> <n> <3s>
+tembel	tembel <adj> <Djn_0> <n> <3p>
+tembel	tembel <n>
+tembel	tembel <n> <3s>
+tembel	tembel <n> <3p>
+tembel	tembel <adj> <Djn_0> <n>
+tembel	tembel <adj> <Djn_0> <n> <3s>
+tembel	tembel <adj> <Djn_0> <n> <3p>
+tembel	tembel <n>
+tembel	tembel <n> <3s>
+tembel	tembel <n> <3p>
+yüzerken	yüz <v> <t_aor> <3p> <cpl_ken>
+yüzerken	yüz <num> <D_sAr> <adv> <Dan_0> <n> <3s> <cpl_ken>
+yüzerken	yüz <num> <D_sAr> <adv> <Dan_0> <n> <3p> <cpl_ken>
+kendi	kendi <n> <3s>
+kendi	kendi <n> <3p>
+kendi	kendi <prn>
+kendi	kendi <prn> <3s>
+kendi	kendi <prn> <3p>
+kendine,	kendi <n> <p2s> <dat> <3s>
+kendine,	kendi <n> <p2s> <dat> <3p>
+kendine,	kendi <prn> <p2s> <dat>
+kendine,	kendi <prn> <p2s> <dat> <3s>
+kendine,	kendi <prn> <p2s> <dat> <3p>
+"ve	ve <cnjadv>
+ateşin	ateşin <n> <3s>
+ateşin	ateşin <n> <3p>
+ateşin	ateş <n> <p2s>
+ateşin	ateş <n> <p2s> <3s>
+ateşin	ateş <n> <p2s> <3p>
+ateşin	ateş <n> <gen>
+ateşin	ateş <n> <gen> <3s>
+ateşin	ateş <n> <gen> <3p>
+yanında	yan <n> <p2s> <loc> <3s>
+yanında	yan <n> <p2s> <loc> <3p>
+yanında	yan <n> <p3s> <loc>
+yanında	yan <n> <p3s> <loc> <3s>
+yanında	yan <n> <p3s> <loc> <3p>
+öyle	öyle <adj> <Djn_0> <n>
+öyle	öyle <adj> <Djn_0> <n> <3s>
+öyle	öyle <adj> <Djn_0> <n> <3p>
+öyle	öyle <adv>
+öyle	öyle <adv> <Dan_0> <n>
+öyle	öyle <adv> <Dan_0> <n> <3s>
+öyle	öyle <adv> <Dan_0> <n> <3p>
+öyle	öyle <ij>
+güzel	güzel <adj> <Djn_0> <n>
+güzel	güzel <adj> <Djn_0> <n> <3s>
+güzel	güzel <adj> <Djn_0> <n> <3p>
+mırıldanarak	<unk>
+oturuyor,	otur <v> <t_cont> <3p>
+oturuyor,	otur <v> <cv_iyor>
+patilerini	pati <n> <pl> <p2s> <acc> <3s>
+patilerini	pati <n> <pl> <p2s> <acc> <3p>
+patilerini	pati <n> <pl> <p3s> <acc>
+patilerini	pati <n> <pl> <p3s> <acc> <3s>
+patilerini	pati <n> <pl> <p3s> <acc> <3p>
+patilerini	pati <n> <p3p> <acc>
+patilerini	pati <n> <p3p> <acc> <3s>
+patilerini	pati <n> <p3p> <acc> <3p>
+yalıyor	yala <v> <t_cont> <3p>
+yalıyor	yala <v> <cv_iyor>
+ve	ve <cnjadv>
+yüzünü	yüz <n> <p2s> <acc> <3s>
+yüzünü	yüz <n> <p2s> <acc> <3p>
+yüzünü	yüz <n> <p3s> <acc>
+yüzünü	yüz <n> <p3s> <acc> <3s>
+yüzünü	yüz <n> <p3s> <acc> <3p>
+yüzünü	yüz <num> <Dmn_0> <n> <p2s> <acc>
+yüzünü	yüz <num> <Dmn_0> <n> <p2s> <acc> <3s>
+yüzünü	yüz <num> <Dmn_0> <n> <p2s> <acc> <3p>
+yüzünü	yüz <num> <Dmn_0> <n> <p3s> <acc>
+yüzünü	yüz <num> <Dmn_0> <n> <p3s> <acc> <3s>
+yüzünü	yüz <num> <Dmn_0> <n> <p3s> <acc> <3p>
+yıkıyorve	<unk>
+o	o <prn> <pers> <3s>
+o	o <prn> <pers> <3p>
+o	o <ij>
+o	o <det>
+kadar	<unk>
+güzel	güzel <adj> <Djn_0> <n>
+güzel	güzel <adj> <Djn_0> <n> <3s>
+güzel	güzel <adj> <Djn_0> <n> <3p>
+yumuşak	yumuşak <adj> <Djn_0> <n>
+yumuşak	yumuşak <adj> <Djn_0> <n> <3s>
+yumuşak	yumuşak <adj> <Djn_0> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+şey	şey <n> <3s>
+şey	şey <n> <3p>
+kive	<unk>
+fare	fare <n> <3s>
+fare	fare <n> <3p>
+yakalamakta	yakala <v> <t_makta> <3p>
+yakalamakta	yakala <v> <vn_mak> <loc>
+yakalamakta	yakala <v> <vn_mak> <loc> <3s>
+yakalamakta	yakala <v> <vn_mak> <loc> <3p>
+yakalamakta	yakala <v> <vinf> <loc>
+yakalamakta	yaka <n> <D_lA> <v> <t_makta> <3s>
+yakalamakta	yaka <n> <D_lA> <v> <t_makta> <3p>
+yakalamakta	yaka <n> <D_lA> <v> <vn_mak> <loc>
+yakalamakta	yaka <n> <D_lA> <v> <vn_mak> <loc> <3s>
+yakalamakta	yaka <n> <D_lA> <v> <vn_mak> <loc> <3p>
+yakalamakta	yaka <n> <D_lA> <v> <vinf> <loc>
+o	o <prn> <pers> <3s>
+o	o <prn> <pers> <3p>
+o	o <ij>
+o	o <det>
+kadar	<unk>
+usta	usta <n> <3s>
+usta	usta <n> <3p>
+usta	us <n> <loc>
+usta	us <n> <loc> <3s>
+usta	us <n> <loc> <3p>
+kiah,	<unk>
+özür	özür <n> <3s>
+özür	özür <n> <3p>
+dilerim!"	dil <v> <t_aor> <1s>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+bağırdı	bağır <n> <cpl_di> <3p>
+bağırdı	bağır <n> <3p> <cpl_di>
+bağırdı	bağır <v> <t_past> <3s>
+bağırdı	bağır <v> <t_past> <3p>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice	ali <n> <D_CA> <adv>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice	ali <n> <D_CA> <n>
+Alice	ali <n> <D_CA> <n> <3s>
+Alice	ali <n> <D_CA> <n> <3p>
+yine,	yine <adv> <Dan_0> <n>
+yine,	yine <adv> <Dan_0> <n> <3s>
+yine,	yine <adv> <Dan_0> <n> <3p>
+çünkü	çünkü <cnjadv>
+bu	bu <prn> <dem> <3s>
+bu	bu <prn> <dem> <3p>
+bu	bu <det>
+sefer	sefer <n> <3s>
+sefer	sefer <n> <3p>
+Fare	fare <n> <3s>
+Fare	fare <n> <3p>
+her	<unk>
+tarafa	taraf <n> <dat> <3s>
+tarafa	taraf <n> <dat> <3p>
+döküldü	dök <v> <pass> <t_past> <3p>
+ve	ve <cnjadv>
+gerçekten	gerçekten <adv> <Dan_0> <n>
+gerçekten	gerçekten <adv> <Dan_0> <n> <3s>
+gerçekten	gerçekten <adv> <Dan_0> <n> <3p>
+gerçekten	gerçekte <adv> <Dan_0> <n> <p2s>
+gerçekten	gerçekte <adv> <Dan_0> <n> <p2s> <3s>
+gerçekten	gerçekte <adv> <Dan_0> <n> <p2s> <3p>
+gerçekten	gerçek <n> <abl>
+gerçekten	gerçek <n> <abl> <3s>
+gerçekten	gerçek <n> <abl> <3p>
+gücendiğini	gücen <v> <vn_dik> <p2s> <acc> <3s>
+gücendiğini	gücen <v> <vn_dik> <p2s> <acc> <3p>
+gücendiğini	gücen <v> <vn_dik> <p3s> <acc>
+gücendiğini	gücen <v> <vn_dik> <p3s> <acc> <3s>
+gücendiğini	gücen <v> <vn_dik> <p3s> <acc> <3p>
+gücendiğini	gücen <v> <part_dik> <p2s> <acc>
+gücendiğini	gücen <v> <part_dik> <p2s> <acc> <3s>
+gücendiğini	gücen <v> <part_dik> <p2s> <acc> <3p>
+gücendiğini	gücen <v> <part_dik> <p3s> <acc>
+gücendiğini	gücen <v> <part_dik> <p3s> <acc> <3s>
+gücendiğini	gücen <v> <part_dik> <p3s> <acc> <3p>
+gücendiğini	gücen <v> <cv_dik> <p3s> <acc>
+hissetti.	hisset <v> <t_past> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Biz	biz <prn> <pers> <3s>
+"Biz	biz <prn> <pers> <3p>
+gerçekten!"	gerçekten <adv> <Dan_0> <n>
+gerçekten!"	gerçekten <adv> <Dan_0> <n> <3s>
+gerçekten!"	gerçekten <adv> <Dan_0> <n> <3p>
+gerçekten!"	gerçekte <adv> <Dan_0> <n> <p2s>
+gerçekten!"	gerçekte <adv> <Dan_0> <n> <p2s> <3s>
+gerçekten!"	gerçekte <adv> <Dan_0> <n> <p2s> <3p>
+gerçekten!"	gerçek <n> <abl>
+gerçekten!"	gerçek <n> <abl> <3s>
+gerçekten!"	gerçek <n> <abl> <3p>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+bağırdı	bağır <n> <cpl_di> <3p>
+bağırdı	bağır <n> <3p> <cpl_di>
+bağırdı	bağır <v> <t_past> <3s>
+bağırdı	bağır <v> <t_past> <3p>
+Fare,	fare <n> <3s>
+Fare,	fare <n> <3p>
+kuyruğunun	kuyruk <n> <p2s> <gen> <3s>
+kuyruğunun	kuyruk <n> <p2s> <gen> <3p>
+kuyruğunun	kuyruk <n> <p3s> <gen>
+kuyruğunun	kuyruk <n> <p3s> <gen> <3s>
+kuyruğunun	kuyruk <n> <p3s> <gen> <3p>
+ucuna	uç <n> <p2s> <dat> <3s>
+ucuna	uç <n> <p2s> <dat> <3p>
+ucuna	uç <n> <p3s> <dat>
+ucuna	uç <n> <p3s> <dat> <3s>
+ucuna	uç <n> <p3s> <dat> <3p>
+kadar	<unk>
+titreyerek.	<unk>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Sanki	sanki <adv> <Dan_0> <n>
+"Sanki	sanki <adv> <Dan_0> <n> <3s>
+"Sanki	sanki <adv> <Dan_0> <n> <3p>
+böyle	böyle <adj> <Djn_0> <n>
+böyle	böyle <adj> <Djn_0> <n> <3s>
+böyle	böyle <adj> <Djn_0> <n> <3p>
+böyle	böyle <adv>
+böyle	böyle <adv> <Dan_0> <n>
+böyle	böyle <adv> <Dan_0> <n> <3s>
+böyle	böyle <adv> <Dan_0> <n> <3p>
+böyle	böyle <ij>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+konudan	konu <n> <abl> <3s>
+konudan	konu <n> <abl> <3p>
+bahsedecekmişim	bahset <v> <vn_acak> <cpl_mis> <1s>
+bahsedecekmişim	bahset <v> <part_acak> <cpl_mis> <1s>
+gibi!	gibi <cnjsub>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ailemiz	aile <n> <p1p>
+Ailemiz	aile <n> <p1p> <3s>
+Ailemiz	aile <n> <p1p> <3p>
+kedilerden	kedi <n> <pl> <abl> <3s>
+kedilerden	kedi <n> <pl> <abl> <3p>
+hep	hep <adv> <Dan_0> <n>
+hep	hep <adv> <Dan_0> <n> <3s>
+hep	hep <adv> <Dan_0> <n> <3p>
+nefret	nefret <n> <3s>
+nefret	nefret <n> <3p>
+etmiştir:	et <v> <t_narr> <3p> <dir>
+iğrenç,	iğrenç <adj> <Djn_0> <n>
+iğrenç,	iğrenç <adj> <Djn_0> <n> <3s>
+iğrenç,	iğrenç <adj> <Djn_0> <n> <3p>
+aşağılık,	aşağı <adv> <D_lIK> <n> <3s>
+aşağılık,	aşağı <adv> <D_lIK> <n> <3p>
+aşağılık,	aşağı <adv> <Dan_0> <n> <D_lIK> <n>
+aşağılık,	aşağı <adv> <Dan_0> <n> <D_lIK> <n> <3s>
+aşağılık,	aşağı <adv> <Dan_0> <n> <D_lIK> <n> <3p>
+aşağılık,	aşağı <n> <D_lIK> <n>
+aşağılık,	aşağı <n> <D_lIK> <n> <3s>
+aşağılık,	aşağı <n> <D_lIK> <n> <3p>
+bayağı	bayağı <n> <3s>
+bayağı	bayağı <n> <3p>
+şeyler!	şey <n> <D_lA> <v> <t_aor> <3p>
+şeyler!	şey <n> <3p>
+şeyler!	şey <n> <pl>
+şeyler!	şey <n> <pl> <3s>
+şeyler!	şey <n> <pl> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir	bir <adj> <Djn_0> <n>
+Bir	bir <adj> <Djn_0> <n> <3s>
+Bir	bir <adj> <Djn_0> <n> <3p>
+Bir	bir <num>
+Bir	bir <num> <Dmn_0> <n>
+Bir	bir <num> <Dmn_0> <n> <3s>
+Bir	bir <num> <Dmn_0> <n> <3p>
+Bir	bir <det>
+daha	daha <adv> <Dan_0> <n>
+daha	daha <adv> <Dan_0> <n> <3s>
+daha	daha <adv> <Dan_0> <n> <3p>
+daha	daha <n>
+daha	daha <n> <3s>
+daha	daha <n> <3p>
+bu	bu <prn> <dem> <3s>
+bu	bu <prn> <dem> <3p>
+bu	bu <det>
+ismi	isim <n> <p3s> <3s>
+ismi	isim <n> <p3s> <3p>
+ismi	isim <n> <acc>
+ismi	isim <n> <acc> <3s>
+ismi	isim <n> <acc> <3p>
+duymama	duy <v> <D_mA> <n> <p1s> <dat> <3s>
+duymama	duy <v> <D_mA> <n> <p1s> <dat> <3p>
+duymama	duy <v> <neg> <vn_ma>
+duymama	duy <v> <neg> <vn_ma> <3s>
+duymama	duy <v> <neg> <vn_ma> <3p>
+duymama	duy <v> <neg> <cv_ma>
+duymama	duy <v> <vn_ma> <p1s> <dat>
+duymama	duy <v> <vn_ma> <p1s> <dat> <3s>
+duymama	duy <v> <vn_ma> <p1s> <dat> <3p>
+izin	izin <n> <3s>
+izin	izin <n> <3p>
+izin	iz <n> <p2s>
+izin	iz <n> <p2s> <3s>
+izin	iz <n> <p2s> <3p>
+izin	iz <n> <gen>
+izin	iz <n> <gen> <3s>
+izin	iz <n> <gen> <3p>
+verme!	ver <v> <D_mA> <n> <3s>
+verme!	ver <v> <D_mA> <n> <3p>
+verme!	ver <v> <neg> <t_imp> <2s>
+verme!	ver <v> <neg> <t_imp> <3p>
+verme!	ver <v> <vn_ma>
+verme!	ver <v> <vn_ma> <3s>
+verme!	ver <v> <vn_ma> <3p>
+verme!	ver <v> <cv_ma>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Gerçekten	gerçekten <adv> <Dan_0> <n>
+"Gerçekten	gerçekten <adv> <Dan_0> <n> <3s>
+"Gerçekten	gerçekten <adv> <Dan_0> <n> <3p>
+"Gerçekten	gerçekte <adv> <Dan_0> <n> <p2s>
+"Gerçekten	gerçekte <adv> <Dan_0> <n> <p2s> <3s>
+"Gerçekten	gerçekte <adv> <Dan_0> <n> <p2s> <3p>
+"Gerçekten	gerçek <n> <abl>
+"Gerçekten	gerçek <n> <abl> <3s>
+"Gerçekten	gerçek <n> <abl> <3p>
+yapmayacağım!"	yap <v> <neg> <vn_acak> <1s>
+yapmayacağım!"	yap <v> <neg> <vn_acak> <p1s>
+yapmayacağım!"	yap <v> <neg> <vn_acak> <p1s> <3s>
+yapmayacağım!"	yap <v> <neg> <vn_acak> <p1s> <3p>
+yapmayacağım!"	yap <v> <neg> <part_acak> <1s>
+yapmayacağım!"	yap <v> <neg> <part_acak> <p1s>
+yapmayacağım!"	yap <v> <neg> <part_acak> <p1s> <3s>
+yapmayacağım!"	yap <v> <neg> <part_acak> <p1s> <3p>
+dedi	de <v> <t_past> <3p>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice,	ali <n> <D_CA> <adv>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice,	ali <n> <D_CA> <n>
+Alice,	ali <n> <D_CA> <n> <3s>
+Alice,	ali <n> <D_CA> <n> <3p>
+konuşmanın	konuşma <adj> <Djn_0> <n> <p2s> <gen> <3s>
+konuşmanın	konuşma <adj> <Djn_0> <n> <p2s> <gen> <3p>
+konuşmanın	konuşma <adj> <Djn_0> <n> <gen>
+konuşmanın	konuşma <adj> <Djn_0> <n> <gen> <3s>
+konuşmanın	konuşma <adj> <Djn_0> <n> <gen> <3p>
+konuşmanın	konuş <v> <D_mA> <n> <p2s> <gen>
+konuşmanın	konuş <v> <D_mA> <n> <p2s> <gen> <3s>
+konuşmanın	konuş <v> <D_mA> <n> <p2s> <gen> <3p>
+konuşmanın	konuş <v> <D_mA> <n> <gen>
+konuşmanın	konuş <v> <D_mA> <n> <gen> <3s>
+konuşmanın	konuş <v> <D_mA> <n> <gen> <3p>
+konuşmanın	konuş <v> <vn_ma> <p2s> <gen>
+konuşmanın	konuş <v> <vn_ma> <p2s> <gen> <3s>
+konuşmanın	konuş <v> <vn_ma> <p2s> <gen> <3p>
+konuşmanın	konuş <v> <vn_ma> <gen>
+konuşmanın	konuş <v> <vn_ma> <gen> <3s>
+konuşmanın	konuş <v> <vn_ma> <gen> <3p>
+konusunu	konu <n> <p3s> <acc> <3s>
+konusunu	konu <n> <p3s> <acc> <3p>
+değiştirmek	değiş <v> <caus> <vn_mak> <3s>
+değiştirmek	değiş <v> <caus> <vn_mak> <3p>
+değiştirmek	değiş <v> <caus> <vinf>
+değiştirmek	değiş <v> <caus> <cv_mak>
+için	için <cnjcoo>
+için	iç <adj> <Djn_0> <n> <p2s>
+için	iç <adj> <Djn_0> <n> <p2s> <3s>
+için	iç <adj> <Djn_0> <n> <p2s> <3p>
+için	iç <adj> <Djn_0> <n> <gen>
+için	iç <adj> <Djn_0> <n> <gen> <3s>
+için	iç <adj> <Djn_0> <n> <gen> <3p>
+için	iç <n> <p2s>
+için	iç <n> <p2s> <3s>
+için	iç <n> <p2s> <3p>
+için	iç <n> <gen>
+için	iç <n> <gen> <3s>
+için	iç <n> <gen> <3p>
+için	iç <v> <t_imp> <2p>
+büyük	büyük <adj> <Djn_0> <n>
+büyük	büyük <adj> <Djn_0> <n> <3s>
+büyük	büyük <adj> <Djn_0> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+aceleyle.	acele <adj> <Djn_0> <n> <ins> <3s>
+aceleyle.	acele <adj> <Djn_0> <n> <ins> <3p>
+aceleyle.	acele <adv> <Dan_0> <n> <ins>
+aceleyle.	acele <adv> <Dan_0> <n> <ins> <3s>
+aceleyle.	acele <adv> <Dan_0> <n> <ins> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Sensen	sensen <n> <3s>
+"Sensen	sensen <n> <3p>
+"Sensen	sen <prn> <pers> <cpl_sa> <2s>
+köpekleri	köpek <n> <pl> <p3s> <3s>
+köpekleri	köpek <n> <pl> <p3s> <3p>
+köpekleri	köpek <n> <pl> <acc>
+köpekleri	köpek <n> <pl> <acc> <3s>
+köpekleri	köpek <n> <pl> <acc> <3p>
+köpekleri	köpek <n> <p3p>
+köpekleri	köpek <n> <p3p> <3s>
+köpekleri	köpek <n> <p3p> <3p>
+sever	sev <v> <t_aor> <3p>
+misin?"	mis <n> <p2s> <3s>
+misin?"	mis <n> <p2s> <3p>
+misin?"	mis <n> <gen>
+misin?"	mis <n> <gen> <3s>
+misin?"	mis <n> <gen> <3p>
+misin?"	mi <q> <2s>
+Fare	fare <n> <3s>
+Fare	fare <n> <3p>
+cevap	cevap <n> <3s>
+cevap	cevap <n> <3p>
+vermedi,	ver <v> <neg> <t_past> <3p>
+bu	bu <prn> <dem> <3s>
+bu	bu <prn> <dem> <3p>
+bu	bu <det>
+yüzden	yüzde <n> <p2s> <3s>
+yüzden	yüzde <n> <p2s> <3p>
+yüzden	yüz <n> <abl>
+yüzden	yüz <n> <abl> <3s>
+yüzden	yüz <n> <abl> <3p>
+yüzden	yüz <v> <cv_dan>
+yüzden	yüz <num> <Dmn_0> <n> <abl>
+yüzden	yüz <num> <Dmn_0> <n> <abl> <3s>
+yüzden	yüz <num> <Dmn_0> <n> <abl> <3p>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice	ali <n> <D_CA> <adv>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice	ali <n> <D_CA> <n>
+Alice	ali <n> <D_CA> <n> <3s>
+Alice	ali <n> <D_CA> <n> <3p>
+hevesle	heves <n> <D_lA> <v> <t_imp> <3p>
+hevesle	heves <n> <ins>
+hevesle	heves <n> <ins> <3s>
+hevesle	heves <n> <ins> <3p>
+devam	devam <n> <3s>
+devam	devam <n> <3p>
+devam	deva <n> <p1s>
+devam	deva <n> <p1s> <3s>
+devam	deva <n> <p1s> <3p>
+etti:	et <n> <cpl_di> <3p>
+etti:	et <n> <3p> <cpl_di>
+etti:	et <v> <t_past> <3s>
+etti:	et <v> <t_past> <3p>
+“Evimizin	<unk>
+yakınında	yakın <adj> <Djn_0> <n> <p2s> <loc> <3s>
+yakınında	yakın <adj> <Djn_0> <n> <p2s> <loc> <3p>
+yakınında	yakın <adj> <Djn_0> <n> <p3s> <loc>
+yakınında	yakın <adj> <Djn_0> <n> <p3s> <loc> <3s>
+yakınında	yakın <adj> <Djn_0> <n> <p3s> <loc> <3p>
+sana	san <n> <dat> <3s>
+sana	san <n> <dat> <3p>
+sana	san <v> <t_opt> <3s>
+sana	san <v> <t_opt> <3p>
+sana	sen <prn> <pers> <dat>
+sana	sen <prn> <pers> <dat> <3s>
+sana	sen <prn> <pers> <dat> <3p>
+göstermek	göster <v> <vn_mak> <3s>
+göstermek	göster <v> <vn_mak> <3p>
+göstermek	göster <v> <vinf>
+göstermek	göster <v> <cv_mak>
+istediğim	iste <v> <vn_dik> <p1s>
+istediğim	iste <v> <vn_dik> <p1s> <3s>
+istediğim	iste <v> <vn_dik> <p1s> <3p>
+istediğim	iste <v> <part_dik> <1s>
+istediğim	iste <v> <part_dik> <p1s>
+istediğim	iste <v> <part_dik> <p1s> <3s>
+istediğim	iste <v> <part_dik> <p1s> <3p>
+öyle	öyle <adj> <Djn_0> <n>
+öyle	öyle <adj> <Djn_0> <n> <3s>
+öyle	öyle <adj> <Djn_0> <n> <3p>
+öyle	öyle <adv>
+öyle	öyle <adv> <Dan_0> <n>
+öyle	öyle <adv> <Dan_0> <n> <3s>
+öyle	öyle <adv> <Dan_0> <n> <3p>
+öyle	öyle <ij>
+güzel	güzel <adj> <Djn_0> <n>
+güzel	güzel <adj> <Djn_0> <n> <3s>
+güzel	güzel <adj> <Djn_0> <n> <3p>
+küçük	küçük <adj> <Djn_0> <n>
+küçük	küçük <adj> <Djn_0> <n> <3s>
+küçük	küçük <adj> <Djn_0> <n> <3p>
+küçük	küçük <n>
+küçük	küçük <n> <3s>
+küçük	küçük <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+köpek	köpek <n> <3s>
+köpek	köpek <n> <3p>
+var	var <n> <3s>
+var	var <n> <3p>
+var	var <v> <t_imp> <2s>
+var	var <v> <t_imp> <3p>
+var	var <exist> <3s>
+var	var <exist> <3p>
+ki!	ki <cnjadv>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Küçük,	küçük <adj> <Djn_0> <n>
+Küçük,	küçük <adj> <Djn_0> <n> <3s>
+Küçük,	küçük <adj> <Djn_0> <n> <3p>
+Küçük,	küçük <n>
+Küçük,	küçük <n> <3s>
+Küçük,	küçük <n> <3p>
+parlak	parlak <adj> <Djn_0> <n>
+parlak	parlak <adj> <Djn_0> <n> <3s>
+parlak	parlak <adj> <Djn_0> <n> <3p>
+gözlü	göz <n> <D_lI> <adj> <Djn_0> <n>
+gözlü	göz <n> <D_lI> <adj> <Djn_0> <n> <3s>
+gözlü	göz <n> <D_lI> <adj> <Djn_0> <n> <3p>
+gözlü	göz <n> <D_lI> <n>
+gözlü	göz <n> <D_lI> <n> <3s>
+gözlü	göz <n> <D_lI> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+teriyer,	<unk>
+bilirsiniz,	<unk>
+ah,	ah <n> <3s>
+ah,	ah <n> <3p>
+ah,	ah <ij>
+ne	ne <prn> <qst> <3s>
+ne	ne <prn> <qst> <3p>
+ne	ne <cnjcoo>
+kadar	<unk>
+uzun	uzun <adj> <Djn_0> <n>
+uzun	uzun <adj> <Djn_0> <n> <3s>
+uzun	uzun <adj> <Djn_0> <n> <3p>
+uzun	uz <n> <p2s>
+uzun	uz <n> <p2s> <3s>
+uzun	uz <n> <p2s> <3p>
+uzun	uz <n> <gen>
+uzun	uz <n> <gen> <3s>
+uzun	uz <n> <gen> <3p>
+kıvırcık	kıvırcık <adj> <Djn_0> <n>
+kıvırcık	kıvırcık <adj> <Djn_0> <n> <3s>
+kıvırcık	kıvırcık <adj> <Djn_0> <n> <3p>
+kıvırcık	kıvırcık <n>
+kıvırcık	kıvırcık <n> <3s>
+kıvırcık	kıvırcık <n> <3p>
+kahverengi	kahverengi <adj> <Djn_0> <n>
+kahverengi	kahverengi <adj> <Djn_0> <n> <3s>
+kahverengi	kahverengi <adj> <Djn_0> <n> <3p>
+tüyleri	tüy <n> <pl> <p3s> <3s>
+tüyleri	tüy <n> <pl> <p3s> <3p>
+tüyleri	tüy <n> <pl> <acc>
+tüyleri	tüy <n> <pl> <acc> <3s>
+tüyleri	tüy <n> <pl> <acc> <3p>
+tüyleri	tüy <n> <p3p>
+tüyleri	tüy <n> <p3p> <3s>
+tüyleri	tüy <n> <p3p> <3p>
+var!	var <n> <3s>
+var!	var <n> <3p>
+var!	var <v> <t_imp> <2s>
+var!	var <v> <t_imp> <3p>
+var!	var <exist> <3s>
+var!	var <exist> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ve	ve <cnjadv>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+şeyler	şey <n> <D_lA> <v> <t_aor> <3p>
+şeyler	şey <n> <3p>
+şeyler	şey <n> <pl>
+şeyler	şey <n> <pl> <3s>
+şeyler	şey <n> <pl> <3p>
+attığınızda	at <v> <part_dik> <p2p> <loc> <3s>
+attığınızda	at <v> <part_dik> <p2p> <loc> <3p>
+onları	onlar <prn> <pers> <p3s> <3s>
+onları	onlar <prn> <pers> <p3s> <3p>
+onları	onlar <prn> <pers> <acc>
+onları	onlar <prn> <pers> <acc> <3s>
+onları	onlar <prn> <pers> <acc> <3p>
+onları	on <n> <pl> <p3s>
+onları	on <n> <pl> <p3s> <3s>
+onları	on <n> <pl> <p3s> <3p>
+onları	on <n> <pl> <acc>
+onları	on <n> <pl> <acc> <3s>
+onları	on <n> <pl> <acc> <3p>
+onları	on <n> <p3p>
+onları	on <n> <p3p> <3s>
+onları	on <n> <p3p> <3p>
+onları	on <num> <Dmn_0> <n> <pl> <p3s>
+onları	on <num> <Dmn_0> <n> <pl> <p3s> <3s>
+onları	on <num> <Dmn_0> <n> <pl> <p3s> <3p>
+onları	on <num> <Dmn_0> <n> <pl> <acc>
+onları	on <num> <Dmn_0> <n> <pl> <acc> <3s>
+onları	on <num> <Dmn_0> <n> <pl> <acc> <3p>
+onları	on <num> <Dmn_0> <n> <p3p>
+onları	on <num> <Dmn_0> <n> <p3p> <3s>
+onları	on <num> <Dmn_0> <n> <p3p> <3p>
+onları	o <prn> <pers> <pl> <p3s>
+onları	o <prn> <pers> <pl> <p3s> <3s>
+onları	o <prn> <pers> <pl> <p3s> <3p>
+onları	o <prn> <pers> <pl> <acc>
+onları	o <prn> <pers> <pl> <acc> <3s>
+onları	o <prn> <pers> <pl> <acc> <3p>
+onları	o <prn> <pers> <p3p>
+onları	o <prn> <pers> <p3p> <3s>
+onları	o <prn> <pers> <p3p> <3p>
+getirir,	getir <v> <t_aor> <3p>
+akşam	akşam <n> <3s>
+akşam	akşam <n> <3p>
+yemeği	yemek <n> <p3s> <3s>
+yemeği	yemek <n> <p3s> <3p>
+yemeği	yemek <n> <acc>
+yemeği	yemek <n> <acc> <3s>
+yemeği	yemek <n> <acc> <3p>
+için	için <cnjcoo>
+için	iç <adj> <Djn_0> <n> <p2s>
+için	iç <adj> <Djn_0> <n> <p2s> <3s>
+için	iç <adj> <Djn_0> <n> <p2s> <3p>
+için	iç <adj> <Djn_0> <n> <gen>
+için	iç <adj> <Djn_0> <n> <gen> <3s>
+için	iç <adj> <Djn_0> <n> <gen> <3p>
+için	iç <n> <p2s>
+için	iç <n> <p2s> <3s>
+için	iç <n> <p2s> <3p>
+için	iç <n> <gen>
+için	iç <n> <gen> <3s>
+için	iç <n> <gen> <3p>
+için	iç <v> <t_imp> <2p>
+oturup	<unk>
+yalvarır	yalvar <v> <t_aor> <3p>
+ve	ve <cnjadv>
+daha	daha <adv> <Dan_0> <n>
+daha	daha <adv> <Dan_0> <n> <3s>
+daha	daha <adv> <Dan_0> <n> <3p>
+daha	daha <n>
+daha	daha <n> <3s>
+daha	daha <n> <3p>
+birçok	birçok <adj> <Djn_0> <n>
+birçok	birçok <adj> <Djn_0> <n> <3s>
+birçok	birçok <adj> <Djn_0> <n> <3p>
+birçok	birçok <det>
+şey	şey <n> <3s>
+şey	şey <n> <3p>
+yaparyarısını	<unk>
+bile	bile <cnjadv>
+bile	bil <v> <t_opt> <3s>
+bile	bil <v> <t_opt> <3p>
+hatırlayamıyorumve	<unk>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+çiftçiye	çiftçi <n> <dat> <3s>
+çiftçiye	çiftçi <n> <dat> <3p>
+çiftçiye	çift <n> <D_CI> <adj> <Djn_0> <n> <dat>
+çiftçiye	çift <n> <D_CI> <adj> <Djn_0> <n> <dat> <3s>
+çiftçiye	çift <n> <D_CI> <adj> <Djn_0> <n> <dat> <3p>
+çiftçiye	çift <n> <D_CI> <n> <dat>
+çiftçiye	çift <n> <D_CI> <n> <dat> <3s>
+çiftçiye	çift <n> <D_CI> <n> <dat> <3p>
+ait,	ait <n> <3s>
+ait,	ait <n> <3p>
+ait,	ait <postp>
+bilirsiniz,	<unk>
+o	o <prn> <pers> <3s>
+o	o <prn> <pers> <3p>
+o	o <ij>
+o	o <det>
+da	<unk>
+onun	onun <n> <3s>
+onun	onun <n> <3p>
+onun	on <n> <p2s>
+onun	on <n> <p2s> <3s>
+onun	on <n> <p2s> <3p>
+onun	on <n> <gen>
+onun	on <n> <gen> <3s>
+onun	on <n> <gen> <3p>
+onun	on <v> <t_imp> <2p>
+onun	on <num> <Dmn_0> <n> <p2s>
+onun	on <num> <Dmn_0> <n> <p2s> <3s>
+onun	on <num> <Dmn_0> <n> <p2s> <3p>
+onun	on <num> <Dmn_0> <n> <gen>
+onun	on <num> <Dmn_0> <n> <gen> <3s>
+onun	on <num> <Dmn_0> <n> <gen> <3p>
+onun	o <prn> <pers> <p2s>
+onun	o <prn> <pers> <p2s> <3s>
+onun	o <prn> <pers> <p2s> <3p>
+onun	o <prn> <pers> <gen>
+onun	o <prn> <pers> <gen> <3s>
+onun	o <prn> <pers> <gen> <3p>
+çok	çok <adj> <Djn_0> <n>
+çok	çok <adj> <Djn_0> <n> <3s>
+çok	çok <adj> <Djn_0> <n> <3p>
+çok	çok <adv>
+çok	çok <adv> <Dan_0> <n>
+çok	çok <adv> <Dan_0> <n> <3s>
+çok	çok <adv> <Dan_0> <n> <3p>
+çok	çok <det>
+işe	işe <v> <t_imp> <3p>
+işe	iş <n> <dat>
+işe	iş <n> <dat> <3s>
+işe	iş <n> <dat> <3p>
+yaradığını,	yara <v> <vn_dik> <p2s> <acc> <3s>
+yaradığını,	yara <v> <vn_dik> <p2s> <acc> <3p>
+yaradığını,	yara <v> <vn_dik> <p3s> <acc>
+yaradığını,	yara <v> <vn_dik> <p3s> <acc> <3s>
+yaradığını,	yara <v> <vn_dik> <p3s> <acc> <3p>
+yaradığını,	yara <v> <part_dik> <p2s> <acc>
+yaradığını,	yara <v> <part_dik> <p2s> <acc> <3s>
+yaradığını,	yara <v> <part_dik> <p2s> <acc> <3p>
+yaradığını,	yara <v> <part_dik> <p3s> <acc>
+yaradığını,	yara <v> <part_dik> <p3s> <acc> <3s>
+yaradığını,	yara <v> <part_dik> <p3s> <acc> <3p>
+yaradığını,	yara <v> <cv_dik> <p3s> <acc>
+yüz	yüz <n> <3s>
+yüz	yüz <n> <3p>
+yüz	yüz <v> <t_imp> <2s>
+yüz	yüz <v> <t_imp> <3p>
+yüz	yüz <num>
+yüz	yüz <num> <Dmn_0> <n>
+yüz	yüz <num> <Dmn_0> <n> <3s>
+yüz	yüz <num> <Dmn_0> <n> <3p>
+pound	pound <n> <3s>
+pound	pound <n> <3p>
+değerinde	değer <n> <p2s> <loc> <3s>
+değerinde	değer <n> <p2s> <loc> <3p>
+değerinde	değer <n> <p3s> <loc>
+değerinde	değer <n> <p3s> <loc> <3s>
+değerinde	değer <n> <p3s> <loc> <3p>
+olduğunu	ol <v> <vn_dik> <p2s> <acc> <3s>
+olduğunu	ol <v> <vn_dik> <p2s> <acc> <3p>
+olduğunu	ol <v> <vn_dik> <p3s> <acc>
+olduğunu	ol <v> <vn_dik> <p3s> <acc> <3s>
+olduğunu	ol <v> <vn_dik> <p3s> <acc> <3p>
+olduğunu	ol <v> <part_dik> <p2s> <acc>
+olduğunu	ol <v> <part_dik> <p2s> <acc> <3s>
+olduğunu	ol <v> <part_dik> <p2s> <acc> <3p>
+olduğunu	ol <v> <part_dik> <p3s> <acc>
+olduğunu	ol <v> <part_dik> <p3s> <acc> <3s>
+olduğunu	ol <v> <part_dik> <p3s> <acc> <3p>
+olduğunu	ol <v> <cv_dik> <p3s> <acc>
+söylüyor!	söyle <v> <t_cont> <3p>
+söylüyor!	söyle <v> <cv_iyor>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Bütün	bütün <adj> <Djn_0> <n>
+"Bütün	bütün <adj> <Djn_0> <n> <3s>
+"Bütün	bütün <adj> <Djn_0> <n> <3p>
+"Bütün	bütün <det>
+fareleri	fare <n> <pl> <p3s> <3s>
+fareleri	fare <n> <pl> <p3s> <3p>
+fareleri	fare <n> <pl> <acc>
+fareleri	fare <n> <pl> <acc> <3s>
+fareleri	fare <n> <pl> <acc> <3p>
+fareleri	fare <n> <p3p>
+fareleri	fare <n> <p3p> <3s>
+fareleri	fare <n> <p3p> <3p>
+öldürdüğünü	öl <v> <caus> <vn_dik> <p2s> <acc> <3s>
+öldürdüğünü	öl <v> <caus> <vn_dik> <p2s> <acc> <3p>
+öldürdüğünü	öl <v> <caus> <vn_dik> <p3s> <acc>
+öldürdüğünü	öl <v> <caus> <vn_dik> <p3s> <acc> <3s>
+öldürdüğünü	öl <v> <caus> <vn_dik> <p3s> <acc> <3p>
+öldürdüğünü	öl <v> <caus> <part_dik> <p2s> <acc>
+öldürdüğünü	öl <v> <caus> <part_dik> <p2s> <acc> <3s>
+öldürdüğünü	öl <v> <caus> <part_dik> <p2s> <acc> <3p>
+öldürdüğünü	öl <v> <caus> <part_dik> <p3s> <acc>
+öldürdüğünü	öl <v> <caus> <part_dik> <p3s> <acc> <3s>
+öldürdüğünü	öl <v> <caus> <part_dik> <p3s> <acc> <3p>
+öldürdüğünü	öl <v> <caus> <cv_dik> <p3s> <acc>
+söylüyor	söyle <v> <t_cont> <3p>
+söylüyor	söyle <v> <cv_iyor>
+veah	<unk>
+canım!"	can <n> <p1s>
+canım!"	can <n> <p1s> <3s>
+canım!"	can <n> <p1s> <3p>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+kederli	keder <n> <D_lI> <adj> <Djn_0> <n>
+kederli	keder <n> <D_lI> <adj> <Djn_0> <n> <3s>
+kederli	keder <n> <D_lI> <adj> <Djn_0> <n> <3p>
+kederli	keder <n> <D_lI> <n>
+kederli	keder <n> <D_lI> <n> <3s>
+kederli	keder <n> <D_lI> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+sesle	sesle <v> <t_imp> <3p>
+sesle	ses <n> <D_lA> <v> <t_imp> <2s>
+sesle	ses <n> <D_lA> <v> <t_imp> <3p>
+sesle	ses <n> <ins>
+sesle	ses <n> <ins> <3s>
+sesle	ses <n> <ins> <3p>
+bağırdı	bağır <n> <cpl_di> <3p>
+bağırdı	bağır <n> <3p> <cpl_di>
+bağırdı	bağır <v> <t_past> <3s>
+bağırdı	bağır <v> <t_past> <3p>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice,	ali <n> <D_CA> <adv>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice,	ali <n> <D_CA> <n>
+Alice,	ali <n> <D_CA> <n> <3s>
+Alice,	ali <n> <D_CA> <n> <3p>
+"Korkarım	<unk>
+onu	on <n> <p3s> <3s>
+onu	on <n> <p3s> <3p>
+onu	on <n> <acc>
+onu	on <n> <acc> <3s>
+onu	on <n> <acc> <3p>
+onu	on <num> <Dmn_0> <n> <p3s>
+onu	on <num> <Dmn_0> <n> <p3s> <3s>
+onu	on <num> <Dmn_0> <n> <p3s> <3p>
+onu	on <num> <Dmn_0> <n> <acc>
+onu	on <num> <Dmn_0> <n> <acc> <3s>
+onu	on <num> <Dmn_0> <n> <acc> <3p>
+onu	o <prn> <pers> <p3s>
+onu	o <prn> <pers> <p3s> <3s>
+onu	o <prn> <pers> <p3s> <3p>
+onu	o <prn> <pers> <acc>
+onu	o <prn> <pers> <acc> <3s>
+onu	o <prn> <pers> <acc> <3p>
+yine	yine <adv> <Dan_0> <n>
+yine	yine <adv> <Dan_0> <n> <3s>
+yine	yine <adv> <Dan_0> <n> <3p>
+gücendirdim!"	<unk>
+Çünkü	çünkü <cnjadv>
+Fare	fare <n> <3s>
+Fare	fare <n> <3p>
+elinden	el <n> <p2s> <abl> <3s>
+elinden	el <n> <p2s> <abl> <3p>
+elinden	el <n> <p3s> <abl>
+elinden	el <n> <p3s> <abl> <3s>
+elinden	el <n> <p3s> <abl> <3p>
+geldiğince	<unk>
+ondan	onda <n> <p2s> <3s>
+ondan	onda <n> <p2s> <3p>
+ondan	on <n> <abl>
+ondan	on <n> <abl> <3s>
+ondan	on <n> <abl> <3p>
+ondan	on <v> <cv_dan>
+ondan	on <num> <Dmn_0> <n> <abl>
+ondan	on <num> <Dmn_0> <n> <abl> <3s>
+ondan	on <num> <Dmn_0> <n> <abl> <3p>
+ondan	o <prn> <pers> <abl>
+ondan	o <prn> <pers> <abl> <3s>
+ondan	o <prn> <pers> <abl> <3p>
+uzaklaşıyor	uzak <adj> <D_lAs> <v> <t_cont> <3p>
+uzaklaşıyor	uzak <adj> <D_lAs> <v> <cv_iyor>
+uzaklaşıyor	uzak <adj> <Djn_0> <n> <D_lAs> <v> <t_cont> <3s>
+uzaklaşıyor	uzak <adj> <Djn_0> <n> <D_lAs> <v> <t_cont> <3p>
+uzaklaşıyor	uzak <adj> <Djn_0> <n> <D_lAs> <v> <cv_iyor>
+ve	ve <cnjadv>
+giderken	gider <n> <3p> <cpl_ken>
+giderken	git <v> <t_aor> <3s> <cpl_ken>
+giderken	git <v> <t_aor> <3p> <cpl_ken>
+havuzda	havuz <n> <loc> <3s>
+havuzda	havuz <n> <loc> <3p>
+oldukça	<unk>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+kargaşa	kargaşa <n> <3s>
+kargaşa	kargaşa <n> <3p>
+yaratıyordu.	yarat <v> <t_cont> <cpl_di> <3p>
+yaratıyordu.	yarat <v> <t_cont> <3p> <cpl_di>
+yaratıyordu.	yara <v> <caus> <t_cont> <cpl_di> <3s>
+yaratıyordu.	yara <v> <caus> <t_cont> <cpl_di> <3p>
+yaratıyordu.	yara <v> <caus> <t_cont> <3p> <cpl_di>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bu	bu <prn> <dem> <3s>
+Bu	bu <prn> <dem> <3p>
+Bu	bu <det>
+yüzden	yüzde <n> <p2s> <3s>
+yüzden	yüzde <n> <p2s> <3p>
+yüzden	yüz <n> <abl>
+yüzden	yüz <n> <abl> <3s>
+yüzden	yüz <n> <abl> <3p>
+yüzden	yüz <v> <cv_dan>
+yüzden	yüz <num> <Dmn_0> <n> <abl>
+yüzden	yüz <num> <Dmn_0> <n> <abl> <3s>
+yüzden	yüz <num> <Dmn_0> <n> <abl> <3p>
+arkasından	arka <adj> <Djn_0> <n> <p3s> <abl> <3s>
+arkasından	arka <adj> <Djn_0> <n> <p3s> <abl> <3p>
+arkasından	arka <n> <p3s> <abl>
+arkasından	arka <n> <p3s> <abl> <3s>
+arkasından	arka <n> <p3s> <abl> <3p>
+usulca	usulca <adv> <Dan_0> <n>
+usulca	usulca <adv> <Dan_0> <n> <3s>
+usulca	usulca <adv> <Dan_0> <n> <3p>
+usulca	usul <adj> <D_CA> <adj>
+usulca	usul <adj> <D_CA> <adj> <Djn_0> <n>
+usulca	usul <adj> <D_CA> <adj> <Djn_0> <n> <3s>
+usulca	usul <adj> <D_CA> <adj> <Djn_0> <n> <3p>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adj>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n> <3s>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n> <3p>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adv>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n> <3s>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n> <3p>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <n>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <n> <3s>
+usulca	usul <adj> <Djn_0> <n> <D_CA> <n> <3p>
+usulca	usul <adj> <Djn_0> <n> <ca>
+seslendi,	sesle <v> <pass> <t_past> <3p>
+seslendi,	ses <n> <D_lAn> <v> <t_past> <3s>
+seslendi,	ses <n> <D_lAn> <v> <t_past> <3p>
+"Muse	<unk>
+canım!	can <n> <p1s>
+canım!	can <n> <p1s> <3s>
+canım!	can <n> <p1s> <3p>
+</S> </S>+ESTag
+<S> <S>+BSTag
+"Bir	bir <adj> <Djn_0> <n>
+"Bir	bir <adj> <Djn_0> <n> <3s>
+"Bir	bir <adj> <Djn_0> <n> <3p>
+"Bir	bir <num>
+"Bir	bir <num> <Dmn_0> <n>
+"Bir	bir <num> <Dmn_0> <n> <3s>
+"Bir	bir <num> <Dmn_0> <n> <3p>
+"Bir	bir <det>
+daha	daha <adv> <Dan_0> <n>
+daha	daha <adv> <Dan_0> <n> <3s>
+daha	daha <adv> <Dan_0> <n> <3p>
+daha	daha <n>
+daha	daha <n> <3s>
+daha	daha <n> <3p>
+gel,	gel <v> <t_imp> <3p>
+eğer	eğer <n> <3s>
+eğer	eğer <n> <3p>
+eğer	eğer <cnjsub>
+eğer	eğ <v> <t_aor> <3s>
+eğer	eğ <v> <t_aor> <3p>
+onları	onlar <prn> <pers> <p3s> <3s>
+onları	onlar <prn> <pers> <p3s> <3p>
+onları	onlar <prn> <pers> <acc>
+onları	onlar <prn> <pers> <acc> <3s>
+onları	onlar <prn> <pers> <acc> <3p>
+onları	on <n> <pl> <p3s>
+onları	on <n> <pl> <p3s> <3s>
+onları	on <n> <pl> <p3s> <3p>
+onları	on <n> <pl> <acc>
+onları	on <n> <pl> <acc> <3s>
+onları	on <n> <pl> <acc> <3p>
+onları	on <n> <p3p>
+onları	on <n> <p3p> <3s>
+onları	on <n> <p3p> <3p>
+onları	on <num> <Dmn_0> <n> <pl> <p3s>
+onları	on <num> <Dmn_0> <n> <pl> <p3s> <3s>
+onları	on <num> <Dmn_0> <n> <pl> <p3s> <3p>
+onları	on <num> <Dmn_0> <n> <pl> <acc>
+onları	on <num> <Dmn_0> <n> <pl> <acc> <3s>
+onları	on <num> <Dmn_0> <n> <pl> <acc> <3p>
+onları	on <num> <Dmn_0> <n> <p3p>
+onları	on <num> <Dmn_0> <n> <p3p> <3s>
+onları	on <num> <Dmn_0> <n> <p3p> <3p>
+onları	o <prn> <pers> <pl> <p3s>
+onları	o <prn> <pers> <pl> <p3s> <3s>
+onları	o <prn> <pers> <pl> <p3s> <3p>
+onları	o <prn> <pers> <pl> <acc>
+onları	o <prn> <pers> <pl> <acc> <3s>
+onları	o <prn> <pers> <pl> <acc> <3p>
+onları	o <prn> <pers> <p3p>
+onları	o <prn> <pers> <p3p> <3s>
+onları	o <prn> <pers> <p3p> <3p>
+sevmiyorsan	<unk>
+ne	ne <prn> <qst> <3s>
+ne	ne <prn> <qst> <3p>
+ne	ne <cnjcoo>
+kedilerden	kedi <n> <pl> <abl> <3s>
+kedilerden	kedi <n> <pl> <abl> <3p>
+ne	ne <prn> <qst> <3s>
+ne	ne <prn> <qst> <3p>
+ne	ne <cnjcoo>
+de	de <v> <t_imp> <2s>
+de	de <v> <t_imp> <3p>
+köpeklerden	köpek <n> <pl> <abl> <3s>
+köpeklerden	köpek <n> <pl> <abl> <3p>
+bahsedeceğiz!"	bahset <v> <vn_acak> <1p>
+bahsedeceğiz!"	bahset <v> <part_acak> <1p>
+Fare	fare <n> <3s>
+Fare	fare <n> <3p>
+bunu	bun <n> <p3s> <3s>
+bunu	bun <n> <p3s> <3p>
+bunu	bun <n> <acc>
+bunu	bun <n> <acc> <3s>
+bunu	bun <n> <acc> <3p>
+bunu	bu <prn> <dem> <p3s>
+bunu	bu <prn> <dem> <p3s> <3s>
+bunu	bu <prn> <dem> <p3s> <3p>
+bunu	bu <prn> <dem> <acc>
+bunu	bu <prn> <dem> <acc> <3s>
+bunu	bu <prn> <dem> <acc> <3p>
+duyunca	duyu <n> <ca>
+duyunca	duy <n> <p2s> <ca>
+duyunca	duy <n> <p3s> <ca>
+duyunca	duy <v> <cv_ince>
+arkasını	arka <adj> <Djn_0> <n> <p3s> <acc> <3s>
+arkasını	arka <adj> <Djn_0> <n> <p3s> <acc> <3p>
+arkasını	arka <n> <p3s> <acc>
+arkasını	arka <n> <p3s> <acc> <3s>
+arkasını	arka <n> <p3s> <acc> <3p>
+döndü	dön <v> <t_past> <3p>
+ve	ve <cnjadv>
+yavaşça	yavaş <adj> <D_CA> <adj> <Djn_0> <n>
+yavaşça	yavaş <adj> <D_CA> <adj> <Djn_0> <n> <3s>
+yavaşça	yavaş <adj> <D_CA> <adj> <Djn_0> <n> <3p>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adj>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n> <3s>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adj> <Djn_0> <n> <3p>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adv>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n> <3s>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <adv> <Dan_0> <n> <3p>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <n>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <n> <3s>
+yavaşça	yavaş <adj> <Djn_0> <n> <D_CA> <n> <3p>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adj>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adj> <Djn_0> <n>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adj> <Djn_0> <n> <3s>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adj> <Djn_0> <n> <3p>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adv>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adv> <Dan_0> <n>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adv> <Dan_0> <n> <3s>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <adv> <Dan_0> <n> <3p>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <n>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <n> <3s>
+yavaşça	yavaş <adv> <Dan_0> <n> <D_CA> <n> <3p>
+ona	ona <v> <t_imp> <3p>
+ona	on <n> <dat>
+ona	on <n> <dat> <3s>
+ona	on <n> <dat> <3p>
+ona	on <v> <t_opt> <3s>
+ona	on <v> <t_opt> <3p>
+ona	on <num> <Dmn_0> <n> <dat>
+ona	on <num> <Dmn_0> <n> <dat> <3s>
+ona	on <num> <Dmn_0> <n> <dat> <3p>
+ona	o <prn> <pers> <dat>
+ona	o <prn> <pers> <dat> <3s>
+ona	o <prn> <pers> <dat> <3p>
+doğru	doğru <adj> <Djn_0> <n>
+doğru	doğru <adj> <Djn_0> <n> <3s>
+doğru	doğru <adj> <Djn_0> <n> <3p>
+doğru	doğru <postp>
+yüzdü:	yüz <n> <cpl_di> <3p>
+yüzdü:	yüz <n> <3p> <cpl_di>
+yüzdü:	yüz <v> <t_past> <3s>
+yüzdü:	yüz <v> <t_past> <3p>
+yüzdü:	yüz <num> <Dmn_0> <n> <cpl_di> <3s>
+yüzdü:	yüz <num> <Dmn_0> <n> <cpl_di> <3p>
+yüzdü:	yüz <num> <Dmn_0> <n> <3p> <cpl_di>
+yüzü	yüz <n> <p3s> <3s>
+yüzü	yüz <n> <p3s> <3p>
+yüzü	yüz <n> <acc>
+yüzü	yüz <n> <acc> <3s>
+yüzü	yüz <n> <acc> <3p>
+yüzü	yüz <num> <Dmn_0> <n> <p3s>
+yüzü	yüz <num> <Dmn_0> <n> <p3s> <3s>
+yüzü	yüz <num> <Dmn_0> <n> <p3s> <3p>
+yüzü	yüz <num> <Dmn_0> <n> <acc>
+yüzü	yüz <num> <Dmn_0> <n> <acc> <3s>
+yüzü	yüz <num> <Dmn_0> <n> <acc> <3p>
+oldukça	<unk>
+solgundu	solgun <n> <cpl_di> <3p>
+solgundu	solgun <n> <3p> <cpl_di>
+(Alice,	ali <n> <D_CA> <adj> <Djn_0> <n>
+(Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+(Alice,	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+(Alice,	ali <n> <D_CA> <adv>
+(Alice,	ali <n> <D_CA> <adv> <Dan_0> <n>
+(Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+(Alice,	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+(Alice,	ali <n> <D_CA> <n>
+(Alice,	ali <n> <D_CA> <n> <3s>
+(Alice,	ali <n> <D_CA> <n> <3p>
+tutkuyla,	tutku <n> <ins> <3s>
+tutkuyla,	tutku <n> <ins> <3p>
+diye	de <v> <t_opt> <3p>
+diye	diye <cnjsub>
+düşündü)	düşün <n> <cpl_di> <3p>
+düşündü)	düşün <n> <3p> <cpl_di>
+düşündü)	düşün <v> <t_past> <3s>
+düşündü)	düşün <v> <t_past> <3p>
+düşündü)	düş <n> <p2s> <cpl_di> <3s>
+düşündü)	düş <n> <p2s> <cpl_di> <3p>
+düşündü)	düş <n> <p2s> <3p> <cpl_di>
+düşündü)	düş <n> <gen> <cpl_di> <3s>
+düşündü)	düş <n> <gen> <cpl_di> <3p>
+düşündü)	düş <n> <gen> <3p> <cpl_di>
+ve	ve <cnjadv>
+alçak,	alçak <n> <3s>
+alçak,	alçak <n> <3p>
+titrek	titrek <n> <3s>
+titrek	titrek <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+sesle	sesle <v> <t_imp> <3p>
+sesle	ses <n> <D_lA> <v> <t_imp> <2s>
+sesle	ses <n> <D_lA> <v> <t_imp> <3p>
+sesle	ses <n> <ins>
+sesle	ses <n> <ins> <3s>
+sesle	ses <n> <ins> <3p>
+dedi	de <v> <t_past> <3p>
+ki,	ki <cnjadv>
+Kıyıya	kıyı <n> <dat> <3s>
+Kıyıya	kıyı <n> <dat> <3p>
+gidelim,	<unk>
+sonra	sonra <adv> <Dan_0> <n>
+sonra	sonra <adv> <Dan_0> <n> <3s>
+sonra	sonra <adv> <Dan_0> <n> <3p>
+sonra	sonra <n>
+sonra	sonra <n> <3s>
+sonra	sonra <n> <3p>
+sonra	sonra <postp>
+sonra	sonra <cnjadv>
+sana	san <n> <dat> <3s>
+sana	san <n> <dat> <3p>
+sana	san <v> <t_opt> <3s>
+sana	san <v> <t_opt> <3p>
+sana	sen <prn> <pers> <dat>
+sana	sen <prn> <pers> <dat> <3s>
+sana	sen <prn> <pers> <dat> <3p>
+geçmişimi	geçmiş <n> <p1s> <acc> <3s>
+geçmişimi	geçmiş <n> <p1s> <acc> <3p>
+anlatırım	anla <v> <caus> <t_aor> <1s>
+ve	ve <cnjadv>
+neden	neden <adv> <Dan_0> <n>
+neden	neden <adv> <Dan_0> <n> <3s>
+neden	neden <adv> <Dan_0> <n> <3p>
+neden	neden <n>
+neden	neden <n> <3s>
+neden	neden <n> <3p>
+neden	ne <prn> <qst> <abl>
+neden	ne <prn> <qst> <abl> <3s>
+neden	ne <prn> <qst> <abl> <3p>
+kedilerden	kedi <n> <pl> <abl> <3s>
+kedilerden	kedi <n> <pl> <abl> <3p>
+ve	ve <cnjadv>
+köpeklerden	köpek <n> <pl> <abl> <3s>
+köpeklerden	köpek <n> <pl> <abl> <3p>
+nefret	nefret <n> <3s>
+nefret	nefret <n> <3p>
+ettiğimi	et <v> <part_dik> <p1s> <acc> <3s>
+ettiğimi	et <v> <part_dik> <p1s> <acc> <3p>
+anlarsın.	an <n> <D_lA> <v> <t_aor> <2s>
+anlarsın.	an <n> <pl> <2s>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Gitme	git <v> <D_mA> <n> <3s>
+Gitme	git <v> <D_mA> <n> <3p>
+Gitme	git <v> <neg> <t_imp> <2s>
+Gitme	git <v> <neg> <t_imp> <3p>
+Gitme	git <v> <vn_ma>
+Gitme	git <v> <vn_ma> <3s>
+Gitme	git <v> <vn_ma> <3p>
+Gitme	git <v> <cv_ma>
+vakti	vakit <n> <p3s> <3s>
+vakti	vakit <n> <p3s> <3p>
+vakti	vakit <n> <acc>
+vakti	vakit <n> <acc> <3s>
+vakti	vakit <n> <acc> <3p>
+gelmişti,	gel <v> <t_narr> <cpl_di> <3p>
+gelmişti,	gel <v> <t_narr> <3p> <cpl_di>
+çünkü	çünkü <cnjadv>
+havuz	havuz <n> <3s>
+havuz	havuz <n> <3p>
+içine	iç <adj> <Djn_0> <n> <p2s> <dat> <3s>
+içine	iç <adj> <Djn_0> <n> <p2s> <dat> <3p>
+içine	iç <adj> <Djn_0> <n> <p3s> <dat>
+içine	iç <adj> <Djn_0> <n> <p3s> <dat> <3s>
+içine	iç <adj> <Djn_0> <n> <p3s> <dat> <3p>
+içine	iç <n> <p2s> <dat>
+içine	iç <n> <p2s> <dat> <3s>
+içine	iç <n> <p2s> <dat> <3p>
+içine	iç <n> <p3s> <dat>
+içine	iç <n> <p3s> <dat> <3s>
+içine	iç <n> <p3s> <dat> <3p>
+düşmüş	düş <n> <cpl_mis> <3p>
+düşmüş	düş <n> <3p> <cpl_mis>
+düşmüş	düş <v> <t_narr> <3s>
+düşmüş	düş <v> <t_narr> <3p>
+düşmüş	düş <v> <cv_mis>
+kuşlar	kuş <n> <D_lA> <v> <t_aor> <3p>
+kuşlar	kuş <n> <3p>
+kuşlar	kuş <n> <pl>
+kuşlar	kuş <n> <pl> <3s>
+kuşlar	kuş <n> <pl> <3p>
+ve	ve <cnjadv>
+hayvanlarla	hayvan <adj> <Djn_0> <n> <pl> <ins> <3s>
+hayvanlarla	hayvan <adj> <Djn_0> <n> <pl> <ins> <3p>
+hayvanlarla	hayvan <n> <pl> <ins>
+hayvanlarla	hayvan <n> <pl> <ins> <3s>
+hayvanlarla	hayvan <n> <pl> <ins> <3p>
+oldukça	<unk>
+kalabalıklaşıyordu:	kalabalık <n> <D_lAs> <v> <t_cont> <cpl_di> <3p>
+kalabalıklaşıyordu:	kalabalık <n> <D_lAs> <v> <t_cont> <3p> <cpl_di>
+kalabalıklaşıyordu:	kalaba <n> <D_lIK> <n> <D_lAs> <v> <t_cont> <cpl_di> <3s>
+kalabalıklaşıyordu:	kalaba <n> <D_lIK> <n> <D_lAs> <v> <t_cont> <cpl_di> <3p>
+kalabalıklaşıyordu:	kalaba <n> <D_lIK> <n> <D_lAs> <v> <t_cont> <3p> <cpl_di>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+Ördek	ördek <n> <3s>
+Ördek	ördek <n> <3p>
+ve	ve <cnjadv>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+Dodo,	<unk>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+Lori	<unk>
+ve	ve <cnjadv>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+Kartal	kartal <n> <3s>
+Kartal	kartal <n> <3p>
+Kartal	kartal <v> <t_imp> <2s>
+Kartal	kartal <v> <t_imp> <3p>
+Yavrusu	yavru <adj> <Djn_0> <n> <p3s> <3s>
+Yavrusu	yavru <adj> <Djn_0> <n> <p3s> <3p>
+Yavrusu	yavru <n> <p3s>
+Yavrusu	yavru <n> <p3s> <3s>
+Yavrusu	yavru <n> <p3s> <3p>
+ve	ve <cnjadv>
+birkaç	birkaç <adj> <Djn_0> <n>
+birkaç	birkaç <adj> <Djn_0> <n> <3s>
+birkaç	birkaç <adj> <Djn_0> <n> <3p>
+birkaç	birkaç <det>
+başka	başka <adj> <Djn_0> <n>
+başka	başka <adj> <Djn_0> <n> <3s>
+başka	başka <adj> <Djn_0> <n> <3p>
+başka	başka <postp>
+tuhaf	tuhaf <adj> <Djn_0> <n>
+tuhaf	tuhaf <adj> <Djn_0> <n> <3s>
+tuhaf	tuhaf <adj> <Djn_0> <n> <3p>
+tuhaf	tuhaf <n>
+tuhaf	tuhaf <n> <3s>
+tuhaf	tuhaf <n> <3p>
+yaratık	yaratık <n> <3s>
+yaratık	yaratık <n> <3p>
+vardı.	varit <n> <p3s> <3s>
+vardı.	varit <n> <p3s> <3p>
+vardı.	varit <n> <acc>
+vardı.	varit <n> <acc> <3s>
+vardı.	varit <n> <acc> <3p>
+vardı.	var <n> <cpl_di> <3s>
+vardı.	var <n> <cpl_di> <3p>
+vardı.	var <n> <3p> <cpl_di>
+vardı.	var <v> <t_past> <3s>
+vardı.	var <v> <t_past> <3p>
+vardı.	var <exist> <cpl_di> <3s>
+vardı.	var <exist> <cpl_di> <3p>
+vardı.	var <exist> <3p> <cpl_di>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3s>
+Alice	ali <n> <D_CA> <adj> <Djn_0> <n> <3p>
+Alice	ali <n> <D_CA> <adv>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3s>
+Alice	ali <n> <D_CA> <adv> <Dan_0> <n> <3p>
+Alice	ali <n> <D_CA> <n>
+Alice	ali <n> <D_CA> <n> <3s>
+Alice	ali <n> <D_CA> <n> <3p>
+önden	ön <n> <abl> <3s>
+önden	ön <n> <abl> <3p>
+gitti	git <v> <t_past> <3p>
+ve	ve <cnjadv>
+bütün	bütün <adj> <Djn_0> <n>
+bütün	bütün <adj> <Djn_0> <n> <3s>
+bütün	bütün <adj> <Djn_0> <n> <3p>
+bütün	bütün <det>
+grup	grup <n> <3s>
+grup	grup <n> <3p>
+kıyıya	kıyı <n> <dat> <3s>
+kıyıya	kıyı <n> <dat> <3p>
+yüzdü.	yüz <n> <cpl_di> <3p>
+yüzdü.	yüz <n> <3p> <cpl_di>
+yüzdü.	yüz <v> <t_past> <3s>
+yüzdü.	yüz <v> <t_past> <3p>
+yüzdü.	yüz <num> <Dmn_0> <n> <cpl_di> <3s>
+yüzdü.	yüz <num> <Dmn_0> <n> <cpl_di> <3p>
+yüzdü.	yüz <num> <Dmn_0> <n> <3p> <cpl_di>
+</S> </S>+ESTag
+<S> <S>+BSTag
+BÖLÜM	bölüm <n> <3s>
+BÖLÜM	bölüm <n> <3p>
+BÖLÜM	bölü <n> <p1s>
+BÖLÜM	bölü <n> <p1s> <3s>
+BÖLÜM	bölü <n> <p1s> <3p>
+III.	<unk>
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir	bir <adj> <Djn_0> <n>
+Bir	bir <adj> <Djn_0> <n> <3s>
+Bir	bir <adj> <Djn_0> <n> <3p>
+Bir	bir <num>
+Bir	bir <num> <Dmn_0> <n>
+Bir	bir <num> <Dmn_0> <n> <3s>
+Bir	bir <num> <Dmn_0> <n> <3p>
+Bir	bir <det>
+Caucus	<unk>
+Yarışı	yarış <n> <p3s> <3s>
+Yarışı	yarış <n> <p3s> <3p>
+Yarışı	yarış <n> <acc>
+Yarışı	yarış <n> <acc> <3s>
+Yarışı	yarış <n> <acc> <3p>
+Yarışı	yar <v> <D_yIS> <n> <p3s>
+Yarışı	yar <v> <D_yIS> <n> <p3s> <3s>
+Yarışı	yar <v> <D_yIS> <n> <p3s> <3p>
+Yarışı	yar <v> <D_yIS> <n> <acc>
+Yarışı	yar <v> <D_yIS> <n> <acc> <3s>
+Yarışı	yar <v> <D_yIS> <n> <acc> <3p>
+Yarışı	yar <v> <vn_yis> <p3s>
+Yarışı	yar <v> <vn_yis> <p3s> <3s>
+Yarışı	yar <v> <vn_yis> <p3s> <3p>
+Yarışı	yar <v> <vn_yis> <acc>
+Yarışı	yar <v> <vn_yis> <acc> <3s>
+Yarışı	yar <v> <vn_yis> <acc> <3p>
+ve	ve <cnjadv>
+Uzun	uzun <adj> <Djn_0> <n>
+Uzun	uzun <adj> <Djn_0> <n> <3s>
+Uzun	uzun <adj> <Djn_0> <n> <3p>
+Uzun	uz <n> <p2s>
+Uzun	uz <n> <p2s> <3s>
+Uzun	uz <n> <p2s> <3p>
+Uzun	uz <n> <gen>
+Uzun	uz <n> <gen> <3s>
+Uzun	uz <n> <gen> <3p>
+Bir	bir <adj> <Djn_0> <n>
+Bir	bir <adj> <Djn_0> <n> <3s>
+Bir	bir <adj> <Djn_0> <n> <3p>
+Bir	bir <num>
+Bir	bir <num> <Dmn_0> <n>
+Bir	bir <num> <Dmn_0> <n> <3s>
+Bir	bir <num> <Dmn_0> <n> <3p>
+Bir	bir <det>
+Hikaye	hikaye <n> <3s>
+Hikaye	hikaye <n> <3p>
+Gerçekten	gerçekten <adv> <Dan_0> <n>
+Gerçekten	gerçekten <adv> <Dan_0> <n> <3s>
+Gerçekten	gerçekten <adv> <Dan_0> <n> <3p>
+Gerçekten	gerçekte <adv> <Dan_0> <n> <p2s>
+Gerçekten	gerçekte <adv> <Dan_0> <n> <p2s> <3s>
+Gerçekten	gerçekte <adv> <Dan_0> <n> <p2s> <3p>
+Gerçekten	gerçek <n> <abl>
+Gerçekten	gerçek <n> <abl> <3s>
+Gerçekten	gerçek <n> <abl> <3p>
+de	de <v> <t_imp> <2s>
+de	de <v> <t_imp> <3p>
+kıyıda	kıyı <n> <loc> <3s>
+kıyıda	kıyı <n> <loc> <3p>
+toplanan	topla <v> <pass> <part_yan> <3s>
+toplanan	topla <v> <pass> <part_yan> <3p>
+toplanan	top <n> <D_lAn> <v> <part_yan>
+toplanan	top <n> <D_lAn> <v> <part_yan> <3s>
+toplanan	top <n> <D_lAn> <v> <part_yan> <3p>
+tuhaf	tuhaf <adj> <Djn_0> <n>
+tuhaf	tuhaf <adj> <Djn_0> <n> <3s>
+tuhaf	tuhaf <adj> <Djn_0> <n> <3p>
+tuhaf	tuhaf <n>
+tuhaf	tuhaf <n> <3s>
+tuhaf	tuhaf <n> <3p>
+görünüşlü	görünüş <n> <D_lI> <adj> <Djn_0> <n>
+görünüşlü	görünüş <n> <D_lI> <adj> <Djn_0> <n> <3s>
+görünüşlü	görünüş <n> <D_lI> <adj> <Djn_0> <n> <3p>
+görünüşlü	görünüş <n> <D_lI> <n>
+görünüşlü	görünüş <n> <D_lI> <n> <3s>
+görünüşlü	görünüş <n> <D_lI> <n> <3p>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <adj>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <adj> <Djn_0> <n>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <adj> <Djn_0> <n> <3s>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <adj> <Djn_0> <n> <3p>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <n>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <n> <3s>
+görünüşlü	görün <v> <D_yIS> <n> <D_lI> <n> <3p>
+bir	bir <adj> <Djn_0> <n>
+bir	bir <adj> <Djn_0> <n> <3s>
+bir	bir <adj> <Djn_0> <n> <3p>
+bir	bir <num>
+bir	bir <num> <Dmn_0> <n>
+bir	bir <num> <Dmn_0> <n> <3s>
+bir	bir <num> <Dmn_0> <n> <3p>
+bir	bir <det>
+topluluktu	topluluk <n> <cpl_di> <3p>
+topluluktu	topluluk <n> <3p> <cpl_di>
+topluluktu	toplu <n> <D_lIK> <n> <cpl_di> <3s>
+topluluktu	toplu <n> <D_lIK> <n> <cpl_di> <3p>
+topluluktu	toplu <n> <D_lIK> <n> <3p> <cpl_di>
+topluluktu	top <n> <D_lI> <adj> <D_lIK> <n> <cpl_di> <3s>
+topluluktu	top <n> <D_lI> <adj> <D_lIK> <n> <cpl_di> <3p>
+topluluktu	top <n> <D_lI> <adj> <D_lIK> <n> <3p> <cpl_di>
+topluluktu	top <n> <D_lI> <n> <D_lIK> <n> <cpl_di> <3s>
+topluluktu	top <n> <D_lI> <n> <D_lIK> <n> <cpl_di> <3p>
+topluluktu	top <n> <D_lI> <n> <D_lIK> <n> <3p> <cpl_di>
+bunlartüyleri	<unk>
+sırılsıklam	sırılsıklam <n> <3s>
+sırılsıklam	sırılsıklam <n> <3p>
+olmuş	ol <v> <t_narr> <3p>
+olmuş	ol <v> <cv_mis>
+kuşlar,	kuş <n> <D_lA> <v> <t_aor> <3p>
+kuşlar,	kuş <n> <3p>
+kuşlar,	kuş <n> <pl>
+kuşlar,	kuş <n> <pl> <3s>
+kuşlar,	kuş <n> <pl> <3p>
+kürkleri	kürk <adj> <Djn_0> <n> <pl> <p3s> <3s>
+kürkleri	kürk <adj> <Djn_0> <n> <pl> <p3s> <3p>
+kürkleri	kürk <adj> <Djn_0> <n> <pl> <acc>
+kürkleri	kürk <adj> <Djn_0> <n> <pl> <acc> <3s>
+kürkleri	kürk <adj> <Djn_0> <n> <pl> <acc> <3p>
+kürkleri	kürk <adj> <Djn_0> <n> <p3p>
+kürkleri	kürk <adj> <Djn_0> <n> <p3p> <3s>
+kürkleri	kürk <adj> <Djn_0> <n> <p3p> <3p>
+kürkleri	kürk <n> <pl> <p3s>
+kürkleri	kürk <n> <pl> <p3s> <3s>
+kürkleri	kürk <n> <pl> <p3s> <3p>
+kürkleri	kürk <n> <pl> <acc>
+kürkleri	kürk <n> <pl> <acc> <3s>
+kürkleri	kürk <n> <pl> <acc> <3p>
+kürkleri	kürk <n> <p3p>
+kürkleri	kürk <n> <p3p> <3s>
+kürkleri	kürk <n> <p3p> <3p>
+üzerlerine	üzer <n> <pl> <p2s> <dat> <3s>
+üzerlerine	üzer <n> <pl> <p2s> <dat> <3p>
+üzerlerine	üzer <n> <pl> <p3s> <dat>
+üzerlerine	üzer <n> <pl> <p3s> <dat> <3s>
+üzerlerine	üzer <n> <pl> <p3s> <dat> <3p>
+üzerlerine	üzer <n> <p3p> <dat>
+üzerlerine	üzer <n> <p3p> <dat> <3s>
+üzerlerine	üzer <n> <p3p> <dat> <3p>
+yapışmış	yapış <v> <t_narr> <3p>
+yapışmış	yapış <v> <cv_mis>
+yapışmış	yap <v> <D_yIS> <n> <cpl_mis> <3s>
+yapışmış	yap <v> <D_yIS> <n> <cpl_mis> <3p>
+yapışmış	yap <v> <D_yIS> <n> <3p> <cpl_mis>
+yapışmış	yap <v> <vn_yis> <cpl_mis> <3s>
+yapışmış	yap <v> <vn_yis> <cpl_mis> <3p>
+yapışmış	yap <v> <vn_yis> <3p> <cpl_mis>
+hayvanlar,	hayvan <adj> <D_lA> <v> <t_aor> <3p>
+hayvanlar,	hayvan <adj> <Djn_0> <n> <D_lA> <v> <t_aor> <3s>
+hayvanlar,	hayvan <adj> <Djn_0> <n> <D_lA> <v> <t_aor> <3p>
+hayvanlar,	hayvan <adj> <Djn_0> <n> <3p>
+hayvanlar,	hayvan <adj> <Djn_0> <n> <pl>
+hayvanlar,	hayvan <adj> <Djn_0> <n> <pl> <3s>
+hayvanlar,	hayvan <adj> <Djn_0> <n> <pl> <3p>
+hayvanlar,	hayvan <n> <D_lA> <v> <t_aor> <3s>
+hayvanlar,	hayvan <n> <D_lA> <v> <t_aor> <3p>
+hayvanlar,	hayvan <n> <3p>
+hayvanlar,	hayvan <n> <pl>
+hayvanlar,	hayvan <n> <pl> <3s>
+hayvanlar,	hayvan <n> <pl> <3p>
+hepsi	hepsi <prn> <3s>
+hepsi	hepsi <prn> <3p>
+sırılsıklam,	sırılsıklam <n> <3s>
+sırılsıklam,	sırılsıklam <n> <3p>
+huzursuz	huzur <n> <Dnn_siz> <adj> <Djn_0> <n>
+huzursuz	huzur <n> <Dnn_siz> <adj> <Djn_0> <n> <3s>
+huzursuz	huzur <n> <Dnn_siz> <adj> <Djn_0> <n> <3p>
+huzursuz	huzur <n> <Dnn_siz> <adv>
+huzursuz	huzur <n> <Dnn_siz> <adv> <Dan_0> <n>
+huzursuz	huzur <n> <Dnn_siz> <adv> <Dan_0> <n> <3s>
+huzursuz	huzur <n> <Dnn_siz> <adv> <Dan_0> <n> <3p>
+ve	ve <cnjadv>
+rahatsızdı.	rahat <adj> <Djn_0> <n> <Dnn_siz> <adj> <Djn_0> <n> <cpl_di> <3p>
+rahatsızdı.	rahat <adj> <Djn_0> <n> <Dnn_siz> <adj> <Djn_0> <n> <3p> <cpl_di>
+rahatsızdı.	rahat <adj> <Djn_0> <n> <Dnn_siz> <adv> <Dan_0> <n> <cpl_di> <3s>
+rahatsızdı.	rahat <adj> <Djn_0> <n> <Dnn_siz> <adv> <Dan_0> <n> <cpl_di> <3p>
+rahatsızdı.	rahat <adj> <Djn_0> <n> <Dnn_siz> <adv> <Dan_0> <n> <3p> <cpl_di>
+</S> </S>+ESTag

@@ -1,0 +1,4 @@
+Method,Mean Macro F1 (%),SD (%)
+SVM — Stylistic + All Keywords,82.02,1.88
+Random Forest — All Features,83.44,2.49
+KNN (k=3) — All Features,51.57,2.29
