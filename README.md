@@ -9,7 +9,7 @@ This repository contains two complementary documentation layers:
 
 - **Framework Documentation**  
   General usage of the feature extraction and authorship attribution pipeline:  
-  👉 `README.tool.md`
+  👉 `README.packages.md`
 
 ## Experimental Corpus Organization
 
