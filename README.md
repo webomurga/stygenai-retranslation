@@ -100,3 +100,23 @@ The resulting systems were then compared against:
 * and reference corpora.
 
 This structure allows the same stylometric and authorship attribution pipeline to be reused across both traditional literary translation analysis and neural machine translation style evaluation experiments.
+
+---
+
+## Translation Scripts
+
+The `translation_scripts/` directory contains the scripts used to generate translations from eight different systems. Each script follows the same context-window approach: for every target sentence, a surrounding block of text (up to 1 000 characters) is built and passed to the API so that the model can resolve pronouns, tone, and references correctly.
+
+Scripts that call LLMs instruct the model to translate **only** the target sentence and use the context block solely for disambiguation. Scripts that call traditional MT APIs (Azure, AWS, DeepL, Google) embed the target sentence between sentinel tags (`[[[TGT_START]]]` / `[[[TGT_END]]]`) so the translated target can be extracted from the full translated block automatically.
+
+All scripts expect a `sentences` list to be defined before running (a list of English source sentences). Each script saves its output to an `.xlsx` file with `original` and `translated_target` columns (Azure and AWS also save a `translated_full` column containing the entire translated context block).
+
+---
+
+## Fine-tuning
+
+The `finetuning/` directory contains the script used to fine-tune a MarianMT model on the study corpus using LoRA (Low-Rank Adaptation).
+
+**`finetune_marian_lora.py`**
+
+Three separate fine-tuned models were produced this way: one trained on human literary translations, one on commercial NMT output, and one on LLM-generated translations. Their outputs were subsequently fed into the analysis pipeline.
